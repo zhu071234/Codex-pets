@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "Pets/kenken-panda\\qa\\rows\\jumping\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "Pets/kenken-panda\\qa\\rows\\jumping\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16337,
+          "bbox": [
+            34,
+            49,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 385
+        },
+        {
+          "index": 1,
+          "file": "Pets/kenken-panda\\qa\\rows\\jumping\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16752,
+          "bbox": [
+            34,
+            20,
+            158,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 421
+        },
+        {
+          "index": 2,
+          "file": "Pets/kenken-panda\\qa\\rows\\jumping\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17039,
+          "bbox": [
+            34,
+            5,
+            158,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 409
+        },
+        {
+          "index": 3,
+          "file": "Pets/kenken-panda\\qa\\rows\\jumping\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16712,
+          "bbox": [
+            34,
+            20,
+            158,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 413
+        },
+        {
+          "index": 4,
+          "file": "Pets/kenken-panda\\qa\\rows\\jumping\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16377,
+          "bbox": [
+            34,
+            49,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 393
+        }
+      ]
+    }
+  ]
+}

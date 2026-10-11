@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "Pets/kenken-panda\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19085,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 267
+        },
+        {
+          "index": 1,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18602,
+          "bbox": [
+            31,
+            5,
+            160,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 2,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18861,
+          "bbox": [
+            27,
+            5,
+            164,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 3,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18757,
+          "bbox": [
+            30,
+            5,
+            161,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 4,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19129,
+          "bbox": [
+            27,
+            5,
+            164,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        },
+        {
+          "index": 5,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17977,
+          "bbox": [
+            32,
+            5,
+            159,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 6,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19198,
+          "bbox": [
+            27,
+            5,
+            164,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 7,
+          "file": "Pets/kenken-panda\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19664,
+          "bbox": [
+            26,
+            5,
+            165,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        }
+      ]
+    }
+  ]
+}

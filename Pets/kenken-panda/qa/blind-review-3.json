@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A鼻尖向屏幕左侧突出，近侧眼位于鼻尖右侧；B鼻尖向屏幕右侧突出，头与眼睛朝右。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A鼻尖及口鼻轮廓朝右，B鼻尖及口鼻轮廓朝左，眼部透视与头部转向一致。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A鼻尖位于头部左侧前缘，B鼻尖位于头部右侧前缘，两者近侧眼的相对位置支持相应方向。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A口鼻向右伸出且右侧远眼较窄；B口鼻向左伸出，近侧眼在鼻尖右上方。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A虽低头，鼻尖仍向右偏，远侧眼较窄；B鼻尖向左偏，头部左转轮廓明确。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "两者均低头；A鼻尖在面部中线右侧且右眼较窄，B鼻尖在面部中线左侧且左眼较窄。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "转向较弱但仍可辨：A鼻尖偏向屏幕右下方，B鼻尖偏向屏幕左下方，双眼的不对称透视支持该判断。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A头部后仰，鼻尖高于双眼并呈仰视；B额顶占比大，双眼与鼻尖朝下，明显低头。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A鼻尖上扬、眼睛朝上，B鼻尖垂低、眼睛位于下压面部，额顶明显可见。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A鼻尖抬起且眼睛朝右上方，B头顶可见面积较大，鼻尖压低并朝右下方。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A鼻尖高且眼睛朝右上方，面部略仰；B鼻尖明显更低、眼睛向右下方，头部略俯。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A额顶突出、鼻尖靠下面部并朝下；B鼻尖上翘，眼睛与头部一起朝左上方。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A口鼻抬起、眼睛朝左上方；B鼻尖垂低，额顶可见面积大，眼睛朝左下方。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "俯仰幅度较轻：A鼻尖及目光朝左下方，额顶较多；B鼻尖略抬起、眼睛与头部朝左上方。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "啃啃",
+  "description": "一只圆脸毛绒小熊猫，抱着竹子认真啃啃，安静陪你工作。",
+  "sprite_version": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "atlas_sha256": "e337602bb91dde330ce9c8c8a28a713c13588414e243ef89f15bdcfacfcdcb4d",
+  "checks": {
+    "bundled_atlas": true,
+    "bundled_quality": true,
+    "blind_direction_review": true,
+    "pets_preflight": true
+  },
+  "generation_mode": "built-in imagegen"
+}

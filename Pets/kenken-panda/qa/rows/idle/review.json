@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "Pets/kenken-panda\\qa\\rows\\idle\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25454,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 535
+        },
+        {
+          "index": 1,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25345,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 538
+        },
+        {
+          "index": 2,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25354,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 546
+        },
+        {
+          "index": 3,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25240,
+          "bbox": [
+            19,
+            6,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 552
+        },
+        {
+          "index": 4,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25308,
+          "bbox": [
+            19,
+            6,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 530
+        },
+        {
+          "index": 5,
+          "file": "Pets/kenken-panda\\qa\\rows\\idle\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25458,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 563
+        }
+      ]
+    }
+  ]
+}

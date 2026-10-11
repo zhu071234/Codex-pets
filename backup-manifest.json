@@ -1,0 +1,1697 @@
+{
+  "pet": "啃啃",
+  "date": "2026-10-11",
+  "public_copy": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 43,
+      "sha256": "b0be1efa269ca07819e9792c0519a66ccf4a076e4a10310bee3d28ef6e510a84"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/base.png",
+      "bytes": 2286826,
+      "sha256": "7dbb53c1262ba9735b770e1d16ee002a9c2233d726a34190267598608f853749"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/failed.png",
+      "bytes": 1898547,
+      "sha256": "9c39ffd7b06300fcf9b1f626faad2e74354f4ae5eb7cff4abccce7c1f3b233ca"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/idle.png",
+      "bytes": 2070557,
+      "sha256": "69561dbd745c80909495575dd097d2101d1085143f34b9af8f7160fd9bb7509d"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/jumping.png",
+      "bytes": 1902329,
+      "sha256": "1a3f4cd52337fdc890f7e9578326766f96f87ceb445b1e512e10cb36c8a77ff0"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-anchors/000.png",
+      "bytes": 67867,
+      "sha256": "662f72248b874dbdd5b3f8de2b28a4e22d0f2a6402c2555d326e0d4ec2b96b8c"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-anchors/090.png",
+      "bytes": 64866,
+      "sha256": "7dabe9005ce7f2f5747f82f809245d42c14ba58064382971683550d69c700626"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-anchors/180.png",
+      "bytes": 64060,
+      "sha256": "d0f3cae9172c3f962829a16d218520c08a8c1938c7ccfc4b1028347577ffe2bb"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-anchors/270.png",
+      "bytes": 63717,
+      "sha256": "cd268d9d6af77cdbdee1f364f56eb51d11aeea1c5b692cd76ddfcfc638d91955"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-anchors-approved.png",
+      "bytes": 256514,
+      "sha256": "0a014f03dc5d5ba7c6690f210a34f1370addc4e13c1de204901a93c41e8c3475"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-cardinals.png",
+      "bytes": 2164930,
+      "sha256": "a9f4b549e9ac538f4240070d60baa39757ff6bfa5e542af2da2240b709fb5e58"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-row-10-rejected-v1.png",
+      "bytes": 1675945,
+      "sha256": "764f779d0baf2ed5a517a5184cd236d1e147ee26b18701ac796a4982dc527f9b"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-row-10.png",
+      "bytes": 1741661,
+      "sha256": "069338c2f79f7312a50b023fa42b6cda390370f62fce008e8832697454c37513"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/look-row-9.png",
+      "bytes": 1744210,
+      "sha256": "0af135a0f4fbb524c9f88dc853b885d11a5ef830800dc71c26ab1969d50a05f3"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/review.png",
+      "bytes": 2035551,
+      "sha256": "ce7e41c3e643d2eebdfc11754291693d1376b8c4f0e854e68427104772030a73"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/running-left.png",
+      "bytes": 1824151,
+      "sha256": "93c41d55a20fc4881d1c158c0309e5ed242aab59cf6583ec9bba2ddc5c0fa1f4"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/running-right.png",
+      "bytes": 1813964,
+      "sha256": "de33cc7f5792836de430ee4e701cc80b77a1ef229f260061095b5fe9c5500fe9"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/running.png",
+      "bytes": 2126300,
+      "sha256": "7e7ead822d04d158ae40e372076da3bf57d0ee6fd1c070f3ae4d0438bfef4646"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/waiting.png",
+      "bytes": 2070227,
+      "sha256": "d2e4f7fd12b4eed924e2215d799af9c401b96bdfc7d9fcdcea8c6a64e175a337"
+    },
+    {
+      "path": "Pets/kenken-panda/decoded/waving.png",
+      "bytes": 2216459,
+      "sha256": "13e2d2b26572281f0f4e3e6bdafd325d4ba5eafb8cee1498e4e7e16d00fcac20"
+    },
+    {
+      "path": "Pets/kenken-panda/final/atlas-manifest.json",
+      "bytes": 1691,
+      "sha256": "097ab24e1b63048c40a9b62e7be80ca7eefb382510ad71339cb1114daf302ed4"
+    },
+    {
+      "path": "Pets/kenken-panda/final/spritesheet-base.png",
+      "bytes": 1946704,
+      "sha256": "4f32f0b71573e04a9624df5199e4f50a0cae5e8755c0b690cefe8b134a303829"
+    },
+    {
+      "path": "Pets/kenken-panda/final/spritesheet-extended-raw.png",
+      "bytes": 2516601,
+      "sha256": "732e5f44b18e13b83829901b0a132c6444ee83eba8bee9e891c938903c203f1b"
+    },
+    {
+      "path": "Pets/kenken-panda/final/spritesheet-extended.png",
+      "bytes": 2475486,
+      "sha256": "e337602bb91dde330ce9c8c8a28a713c13588414e243ef89f15bdcfacfcdcb4d"
+    },
+    {
+      "path": "Pets/kenken-panda/final/validation-extended.json",
+      "bytes": 19072,
+      "sha256": "38ee8a52a621dc1f9215cecc286cfa8b1d442de39d8e97b088c688ae7abce468"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/00.png",
+      "bytes": 37349,
+      "sha256": "697a849f81d8dcb7c036ff6bf3a389407eb7780c45dc5113ac67be0b078b2f40"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/01.png",
+      "bytes": 36546,
+      "sha256": "0f10a1deb13ce3c67065607fba48ed69fa38ef80d4bf443534f7f08dcca6d84a"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/02.png",
+      "bytes": 36493,
+      "sha256": "69d57548c5574edf7cab570fa5eb1fc4a5564d4ac36268e91f6ea587681333cd"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/03.png",
+      "bytes": 35976,
+      "sha256": "d6f43dafebf13d423e65b2275a3e5d6c414aa9df06dd2d0f7f4baf222708c3ad"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/04.png",
+      "bytes": 34883,
+      "sha256": "be09b991e425c70184d48cc42d863ac3162fb2fd87d3647630afbc00e5b57401"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/05.png",
+      "bytes": 35066,
+      "sha256": "b5314df9be8ceb32a9a8cc63e64ec69547025e65c58ca7ffd100695d48639389"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/06.png",
+      "bytes": 35489,
+      "sha256": "4ff9ffdf417e33a1fb9f71ac52fcc74d816288d2c10eddf8b2fdad9df681a218"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/failed/07.png",
+      "bytes": 37829,
+      "sha256": "77392820cf6930f35fc95b8822bdd16e7d6c4306273c2a4c783069843f6011fb"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/frames-manifest.json",
+      "bytes": 587,
+      "sha256": "e5a0f7af1a88da27b538f933fd0a0fcd843407a89b5a31b4d5f097205a054e4a"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/00.png",
+      "bytes": 38052,
+      "sha256": "aa0666ab061176d321cea092019b1aa40823e53e828eb19bc654e7a5e5526bdb"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/01.png",
+      "bytes": 38273,
+      "sha256": "988bb25bcffbe98305eeaedd2a8e39874a47e8612933d891b4b349b3ceee7c75"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/02.png",
+      "bytes": 37822,
+      "sha256": "6ded98b79823f3a97efae02ea44b587a94ac6fd9e9a5fb580cc57a9c3e2d1477"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/03.png",
+      "bytes": 37693,
+      "sha256": "b1e18ea68c81663ecba3c10097550c8b45c85620287152cfa7e0914bba3eddb5"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/04.png",
+      "bytes": 37871,
+      "sha256": "5eca9d068fc091f06f27f27d3ae926e112dde52d1455e2e2bb04ecbc5ab0b263"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/idle/05.png",
+      "bytes": 38121,
+      "sha256": "4f14e59096651a15595b6184744b38d1a4e395a05afbf072cef21efc8ec26082"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/jumping/00.png",
+      "bytes": 38465,
+      "sha256": "f42b505f2a47ec02c30f3b691fb461859fe03ea3fabba1ac1ad2ef09392130a4"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/jumping/01.png",
+      "bytes": 39459,
+      "sha256": "48fe5b02606ddc4aec30a9c4b67d10ea7c0f148b2650608d2ccaf078de2f72e7"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/jumping/02.png",
+      "bytes": 40078,
+      "sha256": "257713a636b481ce696ae30ee0824017815ee38329fd3c2bacba033025d303cc"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/jumping/03.png",
+      "bytes": 39322,
+      "sha256": "fd250984e5bfd6e7d72c1c0e3aa804dc34998edea8701228c6201b4402fcac9e"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/jumping/04.png",
+      "bytes": 38544,
+      "sha256": "53b3db9e52fa9e8e2d7a24a4d4728053db729de79784f3912ddfe04ff5835d24"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/00.png",
+      "bytes": 37265,
+      "sha256": "38abb27e15edbfb36d537bd518f2804fa8392ac2f6d1d70390fd9cf9d4814b33"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/01.png",
+      "bytes": 35515,
+      "sha256": "283e2979acecacc25637e667466b1059fa8beb7390e2f316b1c9dab534d50ad6"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/02.png",
+      "bytes": 36611,
+      "sha256": "227232cb091352720dc1f724638d95e6047ef60a32e94a2f41fb4eae032596f9"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/03.png",
+      "bytes": 35482,
+      "sha256": "f037e345ac17ca76d65f5a0c7aada14dd5df794bf341cf70ee3585b0ef03f024"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/04.png",
+      "bytes": 37123,
+      "sha256": "dfd40047339099b82760723522f42a8d2a9e38cd2cd7630d922dd33b0cce4fd9"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/review/05.png",
+      "bytes": 36828,
+      "sha256": "e15cb4b78147e49836187adb5c10559857644445abcad35951b4c102ca11f96e"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/00.png",
+      "bytes": 37249,
+      "sha256": "4401067399b75083ec54a89a3c610e6e1398cd39e57c0e7a8e6acf6c7e1caaa7"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/01.png",
+      "bytes": 37211,
+      "sha256": "d2bf7b3349b2897b79af0726149046f8d7c5e3b288a22074557d828530d0409c"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/02.png",
+      "bytes": 37533,
+      "sha256": "42de92bef85b3ff7cb3e00056fbe515f056db3624775af15abdce99a5f4bc20c"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/03.png",
+      "bytes": 37314,
+      "sha256": "32b811d1b2cd279be35b65724bf8c0ca1715f60f331115bed098d5f017b943af"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/04.png",
+      "bytes": 36832,
+      "sha256": "f0e7fbbe8d6c49a4e3151f5b1e37413136f252a290c1f94e1361e6a5c704ea55"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running/05.png",
+      "bytes": 36728,
+      "sha256": "5248506aa20bd295cccb2d23bffb6be240916f13d3184b4cf7627018936ec1b7"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/00.png",
+      "bytes": 29287,
+      "sha256": "b0d33bebaff69ddbb97ae5295ae0546c26f9d24e9fa04d5a3e6f49ddfa25d6c3"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/01.png",
+      "bytes": 28582,
+      "sha256": "a5fb797346c448480bd8e5790938ebcd8a47856078a204ce4ee798c6378d752a"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/02.png",
+      "bytes": 29133,
+      "sha256": "2bd6f983ce0099cf3c8a271ebe9b4ec2941ffb919271e5697e6b44d2dbf71dca"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/03.png",
+      "bytes": 28661,
+      "sha256": "8127160b218436a8ce16a786a148386557c64d8073eabb91b25bc58f692b73f0"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/04.png",
+      "bytes": 29284,
+      "sha256": "1b39f76b28920f1dfd3bc19b0cd8cdf84fb04d0e09f38313985e1b8185dc7253"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/05.png",
+      "bytes": 27597,
+      "sha256": "46046414b5b1dbd319b6ab79c8eb42f9d3d0309ba9195c7fe3fc508d5f7cdb34"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/06.png",
+      "bytes": 29651,
+      "sha256": "d5b958db16a4d50dcaa437bb062fbbb25fdd006dfee270d1a8cb4530d96dbfd6"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-left/07.png",
+      "bytes": 29939,
+      "sha256": "7315f28e9ba1d92c969fde551bf04edb57359ffc65ae27cdbeb9aae7cfd80352"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/00.png",
+      "bytes": 29468,
+      "sha256": "fed133ad83facd7e6a339b752926478204c91f9b5353fa5290349b44647772c2"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/01.png",
+      "bytes": 28676,
+      "sha256": "9ae9ff84bd0a9057fac34d7848a589d572f375ba79003d86b6e1356295f4c1fe"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/02.png",
+      "bytes": 29134,
+      "sha256": "e1795cc75a0f1bbdf70f988c09a5bf4ae56da5d55590ca0b1ee70889c138a91e"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/03.png",
+      "bytes": 28736,
+      "sha256": "c842bf3b5c7e1298725e11f6476462a546a7271d17057587abd40b38b0845d02"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/04.png",
+      "bytes": 29275,
+      "sha256": "c10b4b5027d07a952ed59a186e0e9fc2ba29534a9a096789164d63b4bcb555ef"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/05.png",
+      "bytes": 27632,
+      "sha256": "bc838ac12c5b166802873435641ac66ae2a9f7f07952d6e739cac4dcbfabcc85"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/06.png",
+      "bytes": 29652,
+      "sha256": "8ffcc4ed1f3795c5076a11414f04413722b8493b97f4ff96455a0aea594133aa"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/running-right/07.png",
+      "bytes": 29976,
+      "sha256": "da42f7520988533afb85d9e8f326086f004f0f3c3b18464ebfad8cbe973a3691"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/00.png",
+      "bytes": 34472,
+      "sha256": "4395ba9c8eed082354916decda969e0e7ec1830071c3db56fd258d03a691c465"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/01.png",
+      "bytes": 34485,
+      "sha256": "96da1cf6445ac4995eeb7340a415c205fbf332d3268d192425ea1f36f83ed503"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/02.png",
+      "bytes": 33172,
+      "sha256": "a98a20b5245e75cd80060c7dc999da2b9d760f2244df745d3f5e2199450d877c"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/03.png",
+      "bytes": 34760,
+      "sha256": "11eed72df3a8f04235895eba49379de78327a199f728c8496845ea0aafa6192f"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/04.png",
+      "bytes": 34141,
+      "sha256": "8a0592672b296db8dbbd4d6d5a7a1f263d08707aa5d1785634176a4a881d095e"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waiting/05.png",
+      "bytes": 34388,
+      "sha256": "5d35ae262b5a347c5ec5ac65f95830f5ace49907589afbcff67562cd16613809"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waving/00.png",
+      "bytes": 37547,
+      "sha256": "cced51949524142b15820e2106065c1cc9aa6439582acfbb4516d7cce88bd4a5"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waving/01.png",
+      "bytes": 39574,
+      "sha256": "160ae15bc0b070c78a986db61b3a5706e1d0e11ceab7e0cdd563bb3e1728137c"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waving/02.png",
+      "bytes": 39150,
+      "sha256": "71b02124f380297902b1a505240c911df2a81cd941c4ac0f5c92b2f70abb4a80"
+    },
+    {
+      "path": "Pets/kenken-panda/frames/waving/03.png",
+      "bytes": 37262,
+      "sha256": "2a428cde4c201dd43e71f8f7e6e5a199bbede357ddcecf1f46c4e3cbfded0a9b"
+    },
+    {
+      "path": "Pets/kenken-panda/imagegen-jobs.json",
+      "bytes": 19273,
+      "sha256": "42e0fc0f648e21cac22554a5331408e3546881dd992f8444370b46dbfe2dbd81"
+    },
+    {
+      "path": "Pets/kenken-panda/pet-record.json",
+      "bytes": 470,
+      "sha256": "3d0ba6c5df979efec55e76ef0bc73d3c752dde86d5ee8a3969feb6d8c10d2ce8"
+    },
+    {
+      "path": "Pets/kenken-panda/pet_request.json",
+      "bytes": 9135,
+      "sha256": "8b57559a8c269f4a8cb51b46d23d8336779cc15a63d54c9b08785b780d6cd4de"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/base-pet.md",
+      "bytes": 1774,
+      "sha256": "5d08da020b139bc9f56f59b3e43a5d7878cf24b25de7fb5dda6f636451f7f1f0"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/look-anchor-repairs/000.md",
+      "bytes": 865,
+      "sha256": "c9be6b467f7a3ac363820c113ce002b110423e016441c66e9370343959c2994c"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/look-anchor-repairs/090.md",
+      "bytes": 882,
+      "sha256": "21401cad9c40ef57c69bc2289dd2bd2312e7c37e56cd94b9c214d480de6a322a"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/look-anchor-repairs/180.md",
+      "bytes": 870,
+      "sha256": "985f2287902afa5e85d445c4f9c09c7e44d4289b034e215e40cabe993bcc78e3"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/look-anchor-repairs/270.md",
+      "bytes": 880,
+      "sha256": "c48bbbd912a47f7347a746069fadc6b8e2ba66fed4c68c4420c4f812a3383429"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/look-cardinals.md",
+      "bytes": 1453,
+      "sha256": "1fa6e8a6b02e236a0d67f9d6f7df861af45532ef9ee1262cd88e123b65ecdfde"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/failed.md",
+      "bytes": 1955,
+      "sha256": "88c37f27fc27d051d35d70a23b984405e2ce6426076479f0eb91a6c065800f5f"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/idle.md",
+      "bytes": 2495,
+      "sha256": "36e8dad4c9b3eb032a780365df8ad42f5c22c98222d0d7e28408c8215e274654"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/jumping.md",
+      "bytes": 1953,
+      "sha256": "6914ccb24b27761a9e860b4180f8451e3d1e3476a675ea597dec59e28789f653"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/look-row-10.md",
+      "bytes": 3693,
+      "sha256": "7557616f5ba7d0dff3d3d14b76df295049431c5c7b79b25ddcaced082bfffa02"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/look-row-9.md",
+      "bytes": 3609,
+      "sha256": "1cd2b73743d2e4182c6a45c44f5ae93b5f610222c0505f146b6eaa6091ed5dd7"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/review.md",
+      "bytes": 1838,
+      "sha256": "a5a4e942e14684fc7d83d10d7987c248bef23dfe8a1caba02a26fa20c21dd994"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/running-left.md",
+      "bytes": 1946,
+      "sha256": "36ee3ad1c06c340c44f02e3e79d9ce93e8df388343f092b94e00781810c9e7f2"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/running-right.md",
+      "bytes": 1951,
+      "sha256": "0afef9bc6dc9fb1bf8f8ce65d9c91a4f8ab3f052d939a3a89b41260fe923fef5"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/running.md",
+      "bytes": 2183,
+      "sha256": "e385cd6eefef16b87397509bc516fbbb5eeea2db5388e7efb9577f3f49ad9dd1"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/waiting.md",
+      "bytes": 1751,
+      "sha256": "a8ef2eb2663e802f82a8b136e9930962eae8a8a3c48d04a44d7ee27148bdc936"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/row-retries/waving.md",
+      "bytes": 1761,
+      "sha256": "d5ab3d8a397a1deffa498796c2903c488a41bed963898febdaa8019874ce52a4"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/failed.md",
+      "bytes": 2884,
+      "sha256": "0deb5d07dda1eacca240d298a8b3cd315695d03a253b6b2ef54c63bfd4dcdd70"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/idle.md",
+      "bytes": 3424,
+      "sha256": "71ebf5a9dab5cc00af08aff9dc3a47efc4c77cc90292ca0d7b1c9f7f730a277c"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/jumping.md",
+      "bytes": 2882,
+      "sha256": "56cbefa9594000f81f8c4ba75562e56fa61357e4b25d8b1f563dabfeffeaf24c"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/look-row-10.md",
+      "bytes": 4809,
+      "sha256": "48e58a5fd58a0ea3a8a341e996c20635161a8b2fe4d733643e7c7cd635210056"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/look-row-9.md",
+      "bytes": 4739,
+      "sha256": "5f355a817760bc99f5e1856957e9bca7f9d1da8872232c15f93b2cc6443e205f"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/review.md",
+      "bytes": 2767,
+      "sha256": "d812908e0328c7f9f8168d7906592516ea5957f7a8bb4dc4ca0dd748d02f80be"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/running-left.md",
+      "bytes": 2875,
+      "sha256": "296bb900f633efbc3dff5e42eca6abe2cbad9d81a265aa1a283bc2e8100fc032"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/running-right.md",
+      "bytes": 2880,
+      "sha256": "ba1d9f7753ec90229d142e21a30e411344bc66a9fba86bf541fad267181c4000"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/running.md",
+      "bytes": 3112,
+      "sha256": "c8f6b77bf084d3163bd12ab801d9079e8774d5105867b04b788c29870e96e8ba"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/waiting.md",
+      "bytes": 2680,
+      "sha256": "2ba598a7105253743d5769e98a83a0852e2eb65e17391d5d03a3056d9d655e78"
+    },
+    {
+      "path": "Pets/kenken-panda/prompts/rows/waving.md",
+      "bytes": 2690,
+      "sha256": "8bb6f85a5deb34513a3ac3fb41e5f67ba054fbd008166c81bf875e584b0931f9"
+    },
+    {
+      "path": "Pets/kenken-panda/py38_zip_compat.py",
+      "bytes": 878,
+      "sha256": "c94c644741741e29172c2aae4743af23a168f4b0124ad182bea8d960fee75ccf"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/blind-majority.json",
+      "bytes": 4042,
+      "sha256": "6e367542068f7f6ee784fa55dc1a533d16b2753776bdcf433bfcf4101ff9c738"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/blind-review-1.json",
+      "bytes": 2741,
+      "sha256": "ef77ed19ca6519971d88d2dc41fc7f02cb5747c48eb3a041984b12ec6bfa7437"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/blind-review-2.json",
+      "bytes": 2864,
+      "sha256": "c62850133c26ee111578b3f498227be2b888aa5ff0848de6aac3fd01b73144a8"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/blind-review-3.json",
+      "bytes": 3065,
+      "sha256": "8bc833ada693652596a17bd56c9f5465af884c2f935a2b49d897b61968cfa6d9"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/blind-validation.json",
+      "bytes": 5613,
+      "sha256": "030958f333b68bca7c12854a3f881174ddd33d51cbe658e224993b08a633cc65"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/cardinal-anchors.json",
+      "bytes": 1203,
+      "sha256": "c46efa863fd4f152eb6244a72ee71c208166114b231bdaa1543a02477f3e37d5"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/chroma-despill-extended.json",
+      "bytes": 1900,
+      "sha256": "20b1b1baf26b4344397066c111b3cc2347ce5ddb08401e49cc25527bbe08aded"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/contact-sheet-extended.png",
+      "bytes": 2150255,
+      "sha256": "ad41b2d4973d47aa7e5a016d37bfc664a0bb74ceb39a4f74bf691c8a7346a8d2"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/contact-sheet.png",
+      "bytes": 1677062,
+      "sha256": "a3568c41321aaed231f65fb1b62681e965d160ae9ba99f7540a254e5d165f8c9"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/direction-semantics.json",
+      "bytes": 5844,
+      "sha256": "2cac7ed297006ef52b2e4c47bf56561f8681766d97cb7fefdb406fe34cdfb62d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/directions-blind-answer-key.json",
+      "bytes": 4442,
+      "sha256": "7366464b1a41e8104f0f998ee46fbcdd94d5cb5747b97cf93ff3af2161522513"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/directions-blind.png",
+      "bytes": 861120,
+      "sha256": "e94a1768df684dcd9dad9340f98f8413c5020c32dcc459f93432d5bc81f20904"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/directions-labeled.png",
+      "bytes": 799735,
+      "sha256": "13e09b8bd3ff13682e04e9def4d553b49cf1a0c0035a8b47c11c24745075eae4"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/look-continuity.json",
+      "bytes": 11345,
+      "sha256": "82e0e64d67c036884a9b1249262f2856680a095480434f6b63e96660d869fc4d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/look-mechanics.md",
+      "bytes": 765,
+      "sha256": "d8752ab5695797d6a1d0a6b71c79a3ef172c0c653a242ac84a4c64a2b9016546"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/look-row-9-registered.png",
+      "bytes": 278465,
+      "sha256": "f5c9b69d95bf682526c778f8186bf1893dda29861f5605130bf2d7bf7a4be783"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/look-row-9-registration.json",
+      "bytes": 37,
+      "sha256": "21da68eab96c83987473564b23c7f4bdb6b3ce33a0da46a1a9ce85710f9097e3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/pet-quality.json",
+      "bytes": 2535,
+      "sha256": "4ee2956f2e492cee29034d3ebb9d7f69d52ec8825503015d3cfb1ac9d5107ec7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/failed.gif",
+      "bytes": 69323,
+      "sha256": "7544154b08f72ac0847326c8bd75b1202bf2078ff9f873b746a5b4d00f3f50b6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/idle.gif",
+      "bytes": 55479,
+      "sha256": "fe260e9b42d8035e3513470329a0aaec2eb88d631619f8089a2116d8ef649c16"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/jumping.gif",
+      "bytes": 47486,
+      "sha256": "5867eac04b6ea638f01f4d9c750ddc14dee6be19a3978c2660c7cee37946c0dc"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/review.gif",
+      "bytes": 53928,
+      "sha256": "b6c3eb082103a4fe5c789e63daac600f73153a7f80ce1ea39fc1938b44bf0630"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/running-left.gif",
+      "bytes": 57756,
+      "sha256": "9b52a0d3a8b2250a0913f4e641c622c322e9084d6ada21350927b43e8abb1eb2"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/running-right.gif",
+      "bytes": 57852,
+      "sha256": "4752ca7aad1a29d73e064f62cb52ef634f05f7e4f8fd2a6a8baf2e82f32561c0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/running.gif",
+      "bytes": 56269,
+      "sha256": "0674b8a9275cf899d890f1c0616144e3a03d5c87cd83ff72b95aa0b1f114ca4f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/waiting.gif",
+      "bytes": 51281,
+      "sha256": "456a7efa1b71637014d00bd450e9e7f612f52dc820ff021212075373fb823fb0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-base/waving.gif",
+      "bytes": 37707,
+      "sha256": "5b8cfb98a224949903bf5ccbae79da79a599388e5f73c6dedd20458fef4c201d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/all-states.ffmpeg.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/all-states.gif",
+      "bytes": 1002321,
+      "sha256": "fa7fc39b68a4d7c87e55763caf3f0f89a3fd5125c81f252b9d0551609a919b2d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/all-states.mp4",
+      "bytes": 190097,
+      "sha256": "4f520ff402c8610e7c60d33b11180c6f7fbcf1878298097f47a71ce755fe3319"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/failed.gif",
+      "bytes": 66069,
+      "sha256": "cb33dca1afb19634b84fee76861852217912553714c852b7fef8c947c9dbc140"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/idle.gif",
+      "bytes": 52834,
+      "sha256": "cefe937a587c797ab83b21b6e039a75d4a32c3c59d06637ff74816650e276662"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/jumping.gif",
+      "bytes": 45308,
+      "sha256": "8691789b1e57c1bb637d052caeb20525546244d0d241479979197d1abc66daff"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/review.gif",
+      "bytes": 51281,
+      "sha256": "eca01adcf6c81fb603e43ba121f300165e98a97381e72fd0e4a017861b02ec92"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/running-left.gif",
+      "bytes": 56726,
+      "sha256": "d6a363262fabb0d746246be68da7744266580273635a8dcc558654e6053d722c"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/running-right.gif",
+      "bytes": 56698,
+      "sha256": "29be521f2ad9bdcab113ccbd05343962ac58aff183e6df46ad5b44fa7dc725f6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/running.gif",
+      "bytes": 52852,
+      "sha256": "5a59c83d4b82759f5ee0fd31fac0678f3d5dd160025826bf2eaa7532e1967f54"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/waiting.gif",
+      "bytes": 49300,
+      "sha256": "3f39eb4ce5c04cc59a0285b1014461826dd7cfee93742b12b64f9eeff349265d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/bundled-states/waving.gif",
+      "bytes": 36106,
+      "sha256": "11ffc5324fcdeb896f004cb7c3cf8d68222a645d3bc442362226fa8782b69849"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/failed.gif",
+      "bytes": 149593,
+      "sha256": "f570d64dbbc3aa443b6b798b51d2414c07cf8511b8947ebf48f7471bfd04e9a3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/00.png",
+      "bytes": 36737,
+      "sha256": "09afe8691b191d0a8bc116eda3a9eba012663fc30f82abc2adb46e8abf970fd7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/01.png",
+      "bytes": 35805,
+      "sha256": "b319cc9b4d447601505de2ce3af34a1e1a6ed831420e1a2707113256009e262b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/02.png",
+      "bytes": 35786,
+      "sha256": "acc2dd55bd8996daaa7958cffa84073babfab50f11ded899fe6885c9df47ba77"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/03.png",
+      "bytes": 35292,
+      "sha256": "864262efdb67820c36faee8de587aded3331320907a79a1139848f7182def188"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/04.png",
+      "bytes": 34284,
+      "sha256": "65073019d1f1870a0fbb3b79c789a3dbee77a0034c72313eea7222902db4b691"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/05.png",
+      "bytes": 34414,
+      "sha256": "666605adb626107a998f34d22615642a3fd843a37947925ee4a1580ac6fbe01b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/06.png",
+      "bytes": 34944,
+      "sha256": "48171382ff59734b3179a2f134185d2a4b1326900ff941ef6b48850947a7924d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/failed/07.png",
+      "bytes": 37171,
+      "sha256": "88f90b8a5ab72b0b8a6cfc53b3bd7213b2571d0fed64ae9698ce96efc24dc4cb"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/frames-manifest.json",
+      "bytes": 5915,
+      "sha256": "8d27f44200eb3f2d3f9c6b10cbe98887907352497db3736d69fbfce4cdec424b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/00.png",
+      "bytes": 37113,
+      "sha256": "26be1017dcab26e211d01676cd187a08dc569a726a8bce100d31daea56aa7817"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/01.png",
+      "bytes": 37423,
+      "sha256": "fdef79abb0b182c5ed0da7eb628e00fa57374a16d86f8ee64711d28f515fb6a8"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/02.png",
+      "bytes": 36933,
+      "sha256": "6f0b8cca91c894f140e67b76b9add574cb42b8e6544ee0693b4c475ed8efebae"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/03.png",
+      "bytes": 36793,
+      "sha256": "36327e93e369ba72636586fea2fd8a3d9835be196ae65300ef0c85b699f0a37b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/04.png",
+      "bytes": 36920,
+      "sha256": "dd6cbe34775cdff42b8a5cd69cb30e3d718d701cabea81b2e77e083b9eb718f0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/idle/05.png",
+      "bytes": 37159,
+      "sha256": "ad9a06bec490f23ea7beafd097e93eab3174cd54efabb3b661a765d7dcd82c5f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/jumping/00.png",
+      "bytes": 37971,
+      "sha256": "bcbd1b228c84bac64898b36cbef219c6fda42ad52c322a327618a7171d1d3d76"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/jumping/01.png",
+      "bytes": 38956,
+      "sha256": "f6054444f98ae0ac2d16da2f6706fae8ee635e608f0f9fca6ce8b5a616a8a387"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/jumping/02.png",
+      "bytes": 39435,
+      "sha256": "52335787ab87c82ebbd9eb2c431ed0870836b6956d46e1c1254109504a927d56"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/jumping/03.png",
+      "bytes": 38836,
+      "sha256": "c795b4b1e79baf56e413be0ee801eff5d4c329e7deaaa2e11f9ce83091e5b8b3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/jumping/04.png",
+      "bytes": 38003,
+      "sha256": "99605b77f72d2f35e6baad1b49c8a93a43b65c2abfc230dc9d694bddb59372b6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/000.png",
+      "bytes": 38018,
+      "sha256": "816d808d422a4af83d5c7b9927568c78cd4051e15dd837b0d8dc0306c6246f17"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/022.5.png",
+      "bytes": 36524,
+      "sha256": "2f6acd9c4c16a6aa4686fdcb5e95a7e1999893db710481418cb119971ba91d04"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/045.png",
+      "bytes": 35942,
+      "sha256": "fd700b999bee8349133a4ec032ecccca65a6f160894bbb27bac94df4d0659b07"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/067.5.png",
+      "bytes": 35389,
+      "sha256": "db54fae0c1e14494961991144ee633c247587ae9c3bfe363eaf12922f3699500"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/090.png",
+      "bytes": 34668,
+      "sha256": "b2c90e4ae66090a2224ca4a4f683bee2f9443a785dd5b9d9b3ffb253c2595095"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/112.5.png",
+      "bytes": 33622,
+      "sha256": "39cc06da514b22fb3290a4f8430a32e6dfae660a635678b925fb0c53066a7d92"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/135.png",
+      "bytes": 33273,
+      "sha256": "3bb7d12b7dd47b3243f77c8b935a6f562eb7de9251e6057442d35d888cf544b6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/157.5.png",
+      "bytes": 33385,
+      "sha256": "46e4240c45fbe6e49c64ccae86f5659119ec8e354145b581d9dcfc3f84b9ecfd"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/180.png",
+      "bytes": 37530,
+      "sha256": "28b65f9a6a97d3eae296de7fdf13fe9d6af432f3f6c5672807322f582fe8196b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/202.5.png",
+      "bytes": 36297,
+      "sha256": "183a098d82adfe1bbc06358eedcb547825931f19a672055b9fd46efff31bab23"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/225.png",
+      "bytes": 36056,
+      "sha256": "c9d794249ca9dbfc63314da6bba55d35acfaaaddd743a9a85279fe3749545d01"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/247.5.png",
+      "bytes": 35984,
+      "sha256": "0909a1f2d4bc495bd2db82b4e9061553b81df7b7b3fbc32426a7887ce9c848cc"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/270.png",
+      "bytes": 36247,
+      "sha256": "1c6f32b76160048e5dc52192536356f70257521c9f747a4a57f042d1921c7c88"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/292.5.png",
+      "bytes": 37181,
+      "sha256": "95a513e9651964c22a8644e90921e3c35128859ff1065045ef89f009cde65c16"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/315.png",
+      "bytes": 37831,
+      "sha256": "7be7e368af729aeb0efee45b4795f97e16c7cb46da2384225e2092dcd7936082"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/look/337.5.png",
+      "bytes": 37525,
+      "sha256": "c313081533102fe2787d2c43f847759bfac0b57fb723e0cb2782b8cb41d8a99f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/00.png",
+      "bytes": 36247,
+      "sha256": "6dad0dc2c1741ee734e9f6594e577ef42ec7e5c6b9902275f00cb19ec2f6a256"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/01.png",
+      "bytes": 34714,
+      "sha256": "2cce43dbf6c7f54ca9845b7f823f176deb74859433d4f8a7263726c8ea05071a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/02.png",
+      "bytes": 35669,
+      "sha256": "a786ddfb8acfc46a0855034f1242a075d6e90ac671418c4a4ba84aeb4ee9a35d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/03.png",
+      "bytes": 34402,
+      "sha256": "b6ff77e5df8b2f407f7fba1158143f57ffaf1bc324d205cfa37bd90ef9349ba5"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/04.png",
+      "bytes": 36325,
+      "sha256": "ab33da07a9bf927cf46dc678b41cf9b36edfb84cad9a7c91cc9ee46963df1bbe"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/review/05.png",
+      "bytes": 35937,
+      "sha256": "b52d312d3793e3d3c0bb3c12a433e0572e0b009a82ae1371b8dbe87c3878be45"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/00.png",
+      "bytes": 35920,
+      "sha256": "c1fa241ff45a20032ef0cd20b4fdb5542e4b923c34af6daefef246576bcecc51"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/01.png",
+      "bytes": 36035,
+      "sha256": "98006e2c10d1f3f805e115523637a5e2f1815c4fbc62f81454944ea8e0d7317d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/02.png",
+      "bytes": 36392,
+      "sha256": "2b827d28ad3796c6f2732e19f41e40a311af9e9eae543cd1cf3381f42d8fd71f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/03.png",
+      "bytes": 36073,
+      "sha256": "97c9d8cfda2c8edbbd700a3084bad0e2e9a43bd4f88213b8005f0a39aa7ca960"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/04.png",
+      "bytes": 35603,
+      "sha256": "2c59145c1a2fb35f9f4feeb6a53e4930301f3bad710ff9e3d6a767e13d9b2925"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running/05.png",
+      "bytes": 35493,
+      "sha256": "c7d868d0e9617776c7b1341ac4e827586366877d0d5b0fa714f1fcd3bf5bb790"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/00.png",
+      "bytes": 29030,
+      "sha256": "a5b093d2730578fa7b2002a5274ee09ee0455875034025c8dda07511be232e1b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/01.png",
+      "bytes": 28273,
+      "sha256": "1c26def7090f99caffc6bd18c688fbcf96fbeff0209846683344e861d3bdf8f9"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/02.png",
+      "bytes": 28964,
+      "sha256": "798443a0f658569524a3f5d148f143090e3669c25f999edb00ed2334e3730f72"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/03.png",
+      "bytes": 28478,
+      "sha256": "37acfd64e18311cf2a97f532284a8961d193f8ec33172a9e1f7a02d4816615e4"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/04.png",
+      "bytes": 29060,
+      "sha256": "7899cbd0268e5524a63520c0e70e2bce7bdc0dc67528b29737665a58109d402e"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/05.png",
+      "bytes": 27472,
+      "sha256": "bfbe1a745b00fd9d4db4e1a908b6f3a6b34547f529dce7fba83da42ba77c2ec1"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/06.png",
+      "bytes": 29377,
+      "sha256": "f637f6392377d9169b24d4a063fdde04a0e32800ecb4fb2caec4fb10ceabbae6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-left/07.png",
+      "bytes": 29680,
+      "sha256": "08a41562131ab7cb125da5172b2181affa90e85c6c305f335ad579af2e597be6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/00.png",
+      "bytes": 29250,
+      "sha256": "8cf17c69bb82d2df14fb84154bf4ce26b39059be4fa8b4ca7b5bedf646cc96e7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/01.png",
+      "bytes": 28386,
+      "sha256": "349ceb9492338c648140173bb5fe71a6ee7dd899c817e48d57e22511c6d75fe5"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/02.png",
+      "bytes": 29024,
+      "sha256": "bb677776a9af0b508678e7da7c221d3f53df65c36f630cdc4bd319f21fcda004"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/03.png",
+      "bytes": 28559,
+      "sha256": "e9ba68cda759b47880778c21c199b3a94dd9c7d3355373ed9f2caae4f636221b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/04.png",
+      "bytes": 29026,
+      "sha256": "f3e2b18506af5a71f426b524ec950ac913c979a056fade8da5bea156a8e938bf"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/05.png",
+      "bytes": 27450,
+      "sha256": "eeb6a0caf3d2a36cc28b0252c147a7936bdd41678b1b8b6d444aabef7d2584a2"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/06.png",
+      "bytes": 29387,
+      "sha256": "f03d0bfdc69986136a2584bd37742661c08f38620701c9c478e99d72062ce201"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/running-right/07.png",
+      "bytes": 29734,
+      "sha256": "ce340bc0d12e4b47e8c62a22ef0cc9aa271c50ec88b23c26aff64b49c75b9108"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/00.png",
+      "bytes": 33831,
+      "sha256": "71807134892683119dbf012b0bb2302ef4266da685f4f54ee1ef28b0dd951eed"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/01.png",
+      "bytes": 33685,
+      "sha256": "1a2176772021b4b4e74060c5ce71e562bd6a6a0f7911617fdffb548b2e51e559"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/02.png",
+      "bytes": 32464,
+      "sha256": "2119b3f15dc5469243ae7cfe5141e161f7ff30613cbead0fa05359755296ccf5"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/03.png",
+      "bytes": 33966,
+      "sha256": "b4cf51ebf2f3de938ce368d2b7782bb9b0c1fd8c9d74404c3de0937b4a75051a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/04.png",
+      "bytes": 33366,
+      "sha256": "d7939bad46921b91d36204f0c9ae351046db8675856ab6a151a3877aabbe7ea3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waiting/05.png",
+      "bytes": 33658,
+      "sha256": "9e560f66d0743328e91e0960d4662579cb784e44ce4e07607ff7c1e6fc213039"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waving/00.png",
+      "bytes": 36559,
+      "sha256": "8b91c8c422ecb3d146472efefeea049c37ff32a3d536305a80c15e610187525b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waving/01.png",
+      "bytes": 38720,
+      "sha256": "748d73f56ed76da43264ad2ea3a7f0566d938af171a481b8aa665903534d7535"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waving/02.png",
+      "bytes": 38508,
+      "sha256": "f65bc0c84a29c69c372af8d91554bd7affc171f84f74b5ab5d6b543d39913fc8"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/final-frames/waving/03.png",
+      "bytes": 36357,
+      "sha256": "a8ff8e558904905f5cef1f848377d4a3f9ecd8f9fe77d072d126cc8b8fe33548"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/idle-jump-idle.gif",
+      "bytes": 316216,
+      "sha256": "a530495f08c3a9fc214affb219763dde60fd1d69760ca9a980f37d68c76a3f9d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/idle.gif",
+      "bytes": 112202,
+      "sha256": "4817e349367740c8edaeaed9cb0584786cde03a3df95e4caa1d0d2bd6f9c1264"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/jumping.gif",
+      "bytes": 107047,
+      "sha256": "c330d72be8064388640bda5ae4d6cd2e4e2b07f095bd73a6646710dce9551f16"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/look-loop.gif",
+      "bytes": 330220,
+      "sha256": "ace5d779512423911143d318895af68c825c972caba699cbffa32369bd8747d5"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/motion-stills.png",
+      "bytes": 125840,
+      "sha256": "51e2d6c934996b4da8d8b059cf52a2630b3a53ba62a67cf6f95dfadc206cba2a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/preview-manifest.json",
+      "bytes": 55866,
+      "sha256": "f5dc860baf9b5a5c46fe0007be1b55dba2535ab64488ae88eed2637bc1e58734"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/review.gif",
+      "bytes": 94489,
+      "sha256": "6f3d1e5df3feecb8f99c578ee5d3dfb5ae1cbeaeb34c3e20427ecf109703d16f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/running-left.gif",
+      "bytes": 99707,
+      "sha256": "e008cf8a59eafb7df310e36b99b2e2d29794a63301379bd3d975f3a0fe963e0a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/running-right.gif",
+      "bytes": 100369,
+      "sha256": "74361aa166d695c56120da056d2b3314671a0f83df3af778e5783c852e8cc42c"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/running.gif",
+      "bytes": 99717,
+      "sha256": "94b3a2c9130e9562c3a3ea93b20724057b17cd7c61d51372dd4df50015f090cf"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/waiting.gif",
+      "bytes": 113006,
+      "sha256": "b7c1a001fa95e690ee56cdb34e56325c819077af40973f053c06cd8639ab5f27"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/previews-final/waving.gif",
+      "bytes": 87477,
+      "sha256": "a11bc81bc5cd97da2a6a378b605ebdd69eb80aea1108b125eb0ae604e8894391"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/review.json",
+      "bytes": 23955,
+      "sha256": "e0cc6131d9e086d09e0ae6766c18fa4378acb732ac28e2cbd68da8325935516e"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/00.png",
+      "bytes": 57370,
+      "sha256": "75ca91495fda6598f5cb1117c0ceee9e19d845626088b15c2ede90b652948532"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/01.png",
+      "bytes": 56116,
+      "sha256": "208fbff0f05205606cafb42c1146b610e3324c3d21d5bb403011cc2e73ca8806"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/02.png",
+      "bytes": 56094,
+      "sha256": "f4a54e34b23d4764bacd311b7ca1018f222082730b3bf25d57bbf7ffb15f2bd8"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/03.png",
+      "bytes": 55246,
+      "sha256": "a26476b33d2df2f2c5890d48f4e9fb552ff7d392ff129a506b78b8ec7ec49f71"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/04.png",
+      "bytes": 53723,
+      "sha256": "a0e52a08af141abb32d5ee3be9a1e6e9a28d735922d1fad12983f48b2e3f237e"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/05.png",
+      "bytes": 53657,
+      "sha256": "385c8d8817ea6c3a625c5df9a81c673ff7c0a94d36d38fec90a942fc0be3020e"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/06.png",
+      "bytes": 54515,
+      "sha256": "a53e488c5c019f8bfa0f0ab51044b5d6a61054065efe9b53a1879b145ac00be7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/failed/07.png",
+      "bytes": 58205,
+      "sha256": "5d77bd96dcab4a0ba030baccd2dac28e86d75ecec8979c24b23d8a90210c38a4"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/frames/frames-manifest.json",
+      "bytes": 839,
+      "sha256": "b25f987b413bddc99ba6acd3d18bac149c8f6c708b20280fe8fab2a316d5a59a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/failed/review.json",
+      "bytes": 3567,
+      "sha256": "5dee0c5d1e62188b0d60d82279d436ac5b9b6da6252969f3821852cb57821229"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/frames-manifest.json",
+      "bytes": 669,
+      "sha256": "2123e12b7197cad13f01830128c0ed0efa8ab9b4e94c77370e7aaf852d703ff6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/00.png",
+      "bytes": 60115,
+      "sha256": "8e6da21f53311041ec746a4e908e3f8efa08aa4e36b7452114ca3c703811db92"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/01.png",
+      "bytes": 60639,
+      "sha256": "1f9b0209fbe0a12ce331a45328db9fbaf19410794371bc0433bcb79d40ef8425"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/02.png",
+      "bytes": 59787,
+      "sha256": "328a6d1e19992cad066ea66aef68981af94f9d789de028780d7c8ecaac53356a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/03.png",
+      "bytes": 59751,
+      "sha256": "48952de1ad6d52416566749f771159d86cdbd64d38a288f4f577b3c2784e854d"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/04.png",
+      "bytes": 59955,
+      "sha256": "5e6df7f34ef411a426ab123eb73b13a8c3544fc47e8fc3647fc6c7dd841b24d0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/frames/idle/05.png",
+      "bytes": 60404,
+      "sha256": "b473b68f5e96bbdc7aff172d99b5bde84d399c05f0688b8fe259f34b169974e0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/idle/review.json",
+      "bytes": 2743,
+      "sha256": "03b71ea764910ccad8900dcd7206cad675d1dc2aaed0efc9b04fb44e63de75e0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/frames-manifest.json",
+      "bytes": 634,
+      "sha256": "971b4e6c588fbd82b621a330907c5d1ed387e273427b592727720127757d8031"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/jumping/00.png",
+      "bytes": 40432,
+      "sha256": "1f28709a9f7ac7b7ae782ca34b0489e0a854aca2dbf54d09568f982cc3973c75"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/jumping/01.png",
+      "bytes": 41523,
+      "sha256": "a9d81be4c700c5c9b3e22f64b104d9cae52a2b3987dcaa404aade0daf2d8361c"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/jumping/02.png",
+      "bytes": 42238,
+      "sha256": "b187ef21d2a6a555691b1833f23b2169be08f10c496de318aa4c46af690dbd31"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/jumping/03.png",
+      "bytes": 41485,
+      "sha256": "0a8048451ae3c502b461d3b1984afb08a5a4d628fc7f9a83a83103abc5ebfab6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/frames/jumping/04.png",
+      "bytes": 40366,
+      "sha256": "bf8557dff3d9f603ffe3067b3b7bf26bacbeb5296df20b4f65f21f9273be6c76"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/jumping/review.json",
+      "bytes": 2395,
+      "sha256": "2aeec256922adfcfa94d5f8fb42100dbe8ac96703d8e92984d72d8ee65c387b3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/frames-manifest.json",
+      "bytes": 695,
+      "sha256": "7d33b6577702f14eeeb80ba8b3e2b99cc37195b88e460f9da198e5e46c8823db"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/00.png",
+      "bytes": 57763,
+      "sha256": "5d87fb7a9c2ee3af1fb9c474a063805736ed401a5bf8974644fa097a90ba9e87"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/01.png",
+      "bytes": 55033,
+      "sha256": "b35bfdffeafcbfd68dde74465a27dab9e6ab4efbb203e76ee0523400c72fa772"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/02.png",
+      "bytes": 56716,
+      "sha256": "8dcf082734bc1f6206d930f31838c17119271fe5e607ea605237f85904e6d269"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/03.png",
+      "bytes": 54950,
+      "sha256": "2b8d7bb2a40720122a054c61ef76f3d19db20022a5eb181918522f8a684c14a8"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/04.png",
+      "bytes": 57678,
+      "sha256": "dad48246dec96542d738eedd41e1000fd2be9873b4e89560025c626ed88ec751"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/frames/review/05.png",
+      "bytes": 57258,
+      "sha256": "bef911c8e4a081bc8d526662dde43e85028484f826e1c8dda1e49bfc17b4adf7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/review/review.json",
+      "bytes": 2774,
+      "sha256": "3178908e23e46eccfb3949d90e526f4fbfbe36d9c84caea05a6dcca3dfd2eef2"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/frames-manifest.json",
+      "bytes": 708,
+      "sha256": "7561a52d225b0d7b38d704a4db20deadf46ba95c2a8e689679f853bf30faaf08"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/00.png",
+      "bytes": 59300,
+      "sha256": "47ad4880544ff6260a9dc0927b84b20bcf0c926670e710322ea96b0ba424cafc"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/01.png",
+      "bytes": 59191,
+      "sha256": "01f079c75fd42baa69212bd66caecf5d0d77c1e2c945d525f1fe333888ad702f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/02.png",
+      "bytes": 59696,
+      "sha256": "11076451f7036018688ce5fc696f7ccc1b80c91bbecd46a8416357c2c024cc7b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/03.png",
+      "bytes": 59393,
+      "sha256": "7b68bd5e07ef8f526c6c586aeefcada11a9e7c940d1748f9aa923a69cc51f510"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/04.png",
+      "bytes": 58541,
+      "sha256": "fa9387c8ad415a4c7a65988b58b755c6ed79a97ab01c2dc0b33ee0b28a21d511"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/frames/running/05.png",
+      "bytes": 58437,
+      "sha256": "cfb1cb14f52db078616013e7851813e0ed695bc4d2d697fad3a93597095dd3ea"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running/review.json",
+      "bytes": 2788,
+      "sha256": "57af0e665f6a8866bdf64c1d9c06d316fa8a3e12335844327b1847451360d07e"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/frames-manifest.json",
+      "bytes": 941,
+      "sha256": "8276608ddabad978098d5daabb43ac34ecb7200fb72527786feb47ef6cd8dfec"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/00.png",
+      "bytes": 46783,
+      "sha256": "3d1fed2468cfef8a04a15c7b6eb9a25fa05f87925dcadb4a05205dc755877a10"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/01.png",
+      "bytes": 45401,
+      "sha256": "141e4a81bf9e7a8900f79acb79339a263a98c168e44f62751a4d4f19c9829a96"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/02.png",
+      "bytes": 46453,
+      "sha256": "23860e3bb56dd17c7426cb298b2eabf6cbf441226052972b9213467511df98de"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/03.png",
+      "bytes": 45721,
+      "sha256": "580ecb7d921228bb077c46e9432ee9dceb54488a4aab496ddbedccd6a4e11ffb"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/04.png",
+      "bytes": 46565,
+      "sha256": "aad78b5773f1c6096f121a68a5996816cc3c2274014fae3c6bd67d4b04745cce"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/05.png",
+      "bytes": 43957,
+      "sha256": "f976c29e1e0ddba42537a82ca91842b6ef665c37b5793d7e0ee87fe7c72356f3"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/06.png",
+      "bytes": 46951,
+      "sha256": "fb124f4d15125bdc0d8e5b44a8e4990cd1f581a11bb91bbd38daaca726866018"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/frames/running-left/07.png",
+      "bytes": 47774,
+      "sha256": "6aef24647320f691c7fbc4bc22fc4abc76f84bd7a15ec22466b3957707653c09"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-left/review.json",
+      "bytes": 3677,
+      "sha256": "c163cad33b89f7f77ba2509f7633884cd61a4ba00a2dc4848827c1a4d08ee4b4"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/frames-manifest.json",
+      "bytes": 958,
+      "sha256": "d2a631e45986584b1e39c384ac0b717c418708d3d3eb21f8a2ae7639b9b6a4e1"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/00.png",
+      "bytes": 46634,
+      "sha256": "1cbe6ddab8204f255d5d4b8933779cfa4e3842fadc2c382d38aac268c9dec9b7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/01.png",
+      "bytes": 45472,
+      "sha256": "a8432054a4c4c713413c1612c596ab0bd3086ee7671fe0a4aecfb9f4e9a59691"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/02.png",
+      "bytes": 46463,
+      "sha256": "b8449693d68093a7f079b3076ad023877b96016477fc0ba74e27509cdc53c800"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/03.png",
+      "bytes": 45870,
+      "sha256": "d5e20e7e8dcf55b0f76a835d37a879f6af5784ff7d4ee841e0a481b44f26e20a"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/04.png",
+      "bytes": 46501,
+      "sha256": "3943eb891e4dd3fc87e4bf4b1527d824e743f83d53e6ba984f0c5990880b9417"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/05.png",
+      "bytes": 44063,
+      "sha256": "e0c677358d4d87c35d8150dbb2dc2fc64cd4d23653542b85cb72edfd67b36e97"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/06.png",
+      "bytes": 47063,
+      "sha256": "d5f6a11c0b062a16437f844672260c657fd6bae694b3ca287d1859bbb4f26436"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/frames/running-right/07.png",
+      "bytes": 47984,
+      "sha256": "b90b18716e2b57e4cea16c624df4d800cc6ea2184e54ef8a6b89c85d54ce81cf"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/py38_zip_compat.py",
+      "bytes": 805,
+      "sha256": "333f776d12a16221aa494965d34691ff7923c2406d5fc93f768637c8cbedf726"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/running-right/review.json",
+      "bytes": 3696,
+      "sha256": "1f93c447851181a6795821387cc49bf9c5896726c2fd1ca6e92215e5439bd164"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/frames-manifest.json",
+      "bytes": 708,
+      "sha256": "cfc10668dc0ffc8e8dce0f8cb9bf6dd6e8c61f14360cc20ecfdfc2ae93634a8f"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/00.png",
+      "bytes": 53997,
+      "sha256": "5882f3ea9fa00748ddddd52b8da2eb959d0e20f7f23d36e2481f90f6f2226159"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/01.png",
+      "bytes": 54045,
+      "sha256": "602fd66acf41a65545f3d9640525cfe0cbd162a966f95baf3d59ba4d0515b0d7"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/02.png",
+      "bytes": 51989,
+      "sha256": "3aa5a28165ccd7e92a5fb747669093e3b0789ccd4b0db690b827f18c63b5c0c6"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/03.png",
+      "bytes": 54078,
+      "sha256": "be9e97fb60109dae9d1da59672d6494fe7858438401a3abc7777968d5acec6b0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/04.png",
+      "bytes": 53478,
+      "sha256": "697a7b349a0a280660d974117650ef75d2e64755f313cf1cd0d1287dd19b8e83"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/frames/waiting/05.png",
+      "bytes": 53911,
+      "sha256": "cbd0c469b57028719d11ed5055ff2d4ece71c650568367c5caa430b1847de9e9"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waiting/review.json",
+      "bytes": 2791,
+      "sha256": "dca6577bb059d1123d32b72b5e2eda404088d6e3e55acaf2c7b8a1cb6da720c0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/frames/frames-manifest.json",
+      "bytes": 551,
+      "sha256": "91067035ae9c7574e000768d439cf0723aa636864995066e34dd17c4727a3e40"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/frames/waving/00.png",
+      "bytes": 59263,
+      "sha256": "b523e185bc626aac5dae87662daabd3e05be91c6539d744ea4e8a8e1f91301fe"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/frames/waving/01.png",
+      "bytes": 62451,
+      "sha256": "229c361996832f79025b3863b740c71c43b730d766fb70560a8ed0851c6cdcb0"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/frames/waving/02.png",
+      "bytes": 61992,
+      "sha256": "776c693488b716b962f69c84c37a28b4aa4a321b677cf740d97e08494ad66d89"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/frames/waving/03.png",
+      "bytes": 59042,
+      "sha256": "6a21736e70cd60a20729a2507ba637a37f097d957193b7d316d5493f5bf0379b"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/rows/waving/review.json",
+      "bytes": 1983,
+      "sha256": "483ae42b0aaeeb20a10633989d9be076539b02ac1a962698108fd4c8e266fc10"
+    },
+    {
+      "path": "Pets/kenken-panda/qa/standard-registration.json",
+      "bytes": 11651,
+      "sha256": "fd66939dd99d80f69d9a446e5a167aa9ee748043fdaf1a533f3c35f3c5ce142d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/canonical-base.png",
+      "bytes": 2286826,
+      "sha256": "7dbb53c1262ba9735b770e1d16ee002a9c2233d726a34190267598608f853749"
+    },
+    {
+      "path": "Pets/kenken-panda/references/identity-reference-board.png",
+      "bytes": 1303509,
+      "sha256": "f5eeaf794238f84d4ec010f75f705c6a6553e41e1203499b46e6fa77e214354a"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/failed.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/idle.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/jumping.png",
+      "bytes": 1810,
+      "sha256": "eb1843262b696ce780da5a993a2404e7929f557186b4f1dc35809d879c5e7641"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/look-cardinals.png",
+      "bytes": 1559,
+      "sha256": "8fd0ae240e1b02fc16a36417a368d699609bec7c9c1f8a85aabe69ecc62389d9"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/look-row-10.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/look-row-9.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/review.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/running-left.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/running-right.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/running.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/waiting.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/references/layout-guides/waving.png",
+      "bytes": 1559,
+      "sha256": "8fd0ae240e1b02fc16a36417a368d699609bec7c9c1f8a85aabe69ecc62389d9"
+    },
+    {
+      "path": "Pets/kenken-panda/references/reference-01.jpg",
+      "bytes": 501412,
+      "sha256": "7b44d12bdf00e66bd0b587087bec11820f07a095bd4b1eaec23d41ae2fd6972b"
+    },
+    {
+      "path": "Pets/kenken-panda/register_standard_frames.py",
+      "bytes": 2034,
+      "sha256": "df00bd030f0ba72d770047ea57c037a9f9a027ccaa0832067cca7e0e1a200d9e"
+    },
+    {
+      "path": "Pets/kenken-panda/render_final_previews.py",
+      "bytes": 11651,
+      "sha256": "8871cb2c4cac7d62b53ce897d6a8280532bbc59620f1fbfdb398c69bb73a2268"
+    },
+    {
+      "path": "Pets/kenken-panda/request-brief.md",
+      "bytes": 1735,
+      "sha256": "1fba5c4d03fb5b5c02ddef89d67db0f0b6c9490bfbbfa97d6bebe10096789a22"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1861,
+      "sha256": "9c038289b17f8ac24b344599f17ca88ef983cd75f859076f9c4a8b52d8a8f455"
+    }
+  ]
+}

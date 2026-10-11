@@ -1,0 +1,2137 @@
+{
+  "ok": true,
+  "source_atlas": "Pets/kenken-panda\\final\\spritesheet-extended.png",
+  "source_sha256": "e337602bb91dde330ce9c8c8a28a713c13588414e243ef89f15bdcfacfcdcb4d",
+  "source_encoded_bytes": 2475486,
+  "frames_root": "Pets/kenken-panda\\qa\\previews-final\\final-frames",
+  "cell_size": [
+    192,
+    208
+  ],
+  "background_rgb": [
+    242,
+    242,
+    242
+  ],
+  "frames": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 0,
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\00.png",
+      "duration_ms": 280,
+      "rgba_sha256": "d01e359d6ea2370132db4d468b4f7da6e5adfde41f342c9d4f9d5f19a6f8f549"
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 1,
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\01.png",
+      "duration_ms": 110,
+      "rgba_sha256": "43cad92ca1b87e5c7d4da38444f96c1ca8dec2e6b3c8f1e755fe6a47811e0dee"
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 2,
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\02.png",
+      "duration_ms": 110,
+      "rgba_sha256": "c529057afc33eec283f92f04c6c552c2be08dae7f97aa8b870ef0c967e627b33"
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 3,
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "df0f2612a5e7eb6d2ab55aa2a80ead6f34e4b843c51274ed2fb0ccf9ca1af551"
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 4,
+      "source_box": [
+        768,
+        0,
+        960,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\04.png",
+      "duration_ms": 140,
+      "rgba_sha256": "53a3855d914a4e5986ae600fcfa64278a1fd3260425971e2a266bd558f65376e"
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 5,
+      "source_box": [
+        960,
+        0,
+        1152,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\05.png",
+      "duration_ms": 320,
+      "rgba_sha256": "ed03637d4fe5045643526db35b27ac5fc5609acccbc5b4c5dbc210a88633612d"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 0,
+      "source_box": [
+        0,
+        208,
+        192,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "3c513a4b87e6883f196647f17da9ea2a36f7eeb48418e7e573489d6f8adeb080"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 1,
+      "source_box": [
+        192,
+        208,
+        384,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "26d8ea1d5b80b189c92d4473aaef143966a79a51d1a0062d40ac9c45c242cf51"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 2,
+      "source_box": [
+        384,
+        208,
+        576,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "8deeb75fff3bbfa7305f94e8b73a64c78f2e27e7109337e84ed825c4f01b3358"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 3,
+      "source_box": [
+        576,
+        208,
+        768,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "758961b402ba36316a8371b8723eb629664be7cecb0a93987457bbfe43c274c8"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 4,
+      "source_box": [
+        768,
+        208,
+        960,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "0aef01e7defc12b0044ab81a8e43143d6c873e632182de19db66a46469bdc508"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 5,
+      "source_box": [
+        960,
+        208,
+        1152,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\05.png",
+      "duration_ms": 120,
+      "rgba_sha256": "46877b361ec4f157100e70ea3ab1cda23566bc0750ff138c9085fe975702e75a"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 6,
+      "source_box": [
+        1152,
+        208,
+        1344,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\06.png",
+      "duration_ms": 120,
+      "rgba_sha256": "bd5cdfc43689463626e87f09bd5378779c28391c4a3a19d6fe0e4fba6c8d45f3"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 7,
+      "source_box": [
+        1344,
+        208,
+        1536,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\07.png",
+      "duration_ms": 220,
+      "rgba_sha256": "83af6d3a2415f9e4b939cc2713afc95f873e3ed813bd0d5f52574edf4dfe1da7"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 0,
+      "source_box": [
+        0,
+        416,
+        192,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "99b2b1f0bba7431cac543e7c019217453043a89a9fd80b33bdde605ef9069206"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 1,
+      "source_box": [
+        192,
+        416,
+        384,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "58a7557face13b12b1deb4377d2217a8f712ccb3a516d3a6eb4c12ab07a1f741"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 2,
+      "source_box": [
+        384,
+        416,
+        576,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "0bc8e04d9051a207f94b9364b6e9fb6db2c07eea5e6146d35d06a904f1b21ea3"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 3,
+      "source_box": [
+        576,
+        416,
+        768,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "bebdd5fcac602e034ea461c7bb9f05ccd9c24a7e5bf99e649433e4630fa38e70"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 4,
+      "source_box": [
+        768,
+        416,
+        960,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "330299879a2f32d7546bbb7fc1377fe2a9f9906922a9a75ebc73da40006b9e96"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 5,
+      "source_box": [
+        960,
+        416,
+        1152,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\05.png",
+      "duration_ms": 120,
+      "rgba_sha256": "ec9a7e37552e8d6cce88f99d17cdd2c6e28e998774cb3f7954eb4a6bf7244bd7"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 6,
+      "source_box": [
+        1152,
+        416,
+        1344,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\06.png",
+      "duration_ms": 120,
+      "rgba_sha256": "5b8e12f7bff049ca159bd14f7b9d724a6b281dc31649c79def1955ef6be2d32e"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 7,
+      "source_box": [
+        1344,
+        416,
+        1536,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\07.png",
+      "duration_ms": 220,
+      "rgba_sha256": "fab0116c58da4f53b1f05bdf3cd8fb8b8ff40b358c57ca7afd5911584f0d630e"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 0,
+      "source_box": [
+        0,
+        624,
+        192,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "a9547808b094432f99b34dbe8af710f88b35cf7f241a8233fd6daf8689fb7663"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 1,
+      "source_box": [
+        192,
+        624,
+        384,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "cd368fa64528c8e996a3d80633a5b07704f8ab7c33ffb76e00124f8fb2489d32"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 2,
+      "source_box": [
+        384,
+        624,
+        576,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "5c98ee4dd5a7dcb1367d5e854bc9c0b261642a7b1621d24e738cf85abfce1281"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 3,
+      "source_box": [
+        576,
+        624,
+        768,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\03.png",
+      "duration_ms": 280,
+      "rgba_sha256": "079c63cc96acc2df17b15c9ee966d74e82e3acfe5385e2a07968b5fcb440bb57"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 0,
+      "source_box": [
+        0,
+        832,
+        192,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "7b386278022b5de0217121db0b4126ab121dc988e69b14c45a23455bfa3422f0"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 1,
+      "source_box": [
+        192,
+        832,
+        384,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "75f2fd5645970a7d7142e0e032f941fb03e81f36543ff2dab6db5635ac0849aa"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 2,
+      "source_box": [
+        384,
+        832,
+        576,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "0f93d1020683d7b0ad74a83d61172be3081fa774dbd251e8573df0eea8ab17a5"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 3,
+      "source_box": [
+        576,
+        832,
+        768,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "9df0168e8eb8591e2bc6c3c9bb9c8d10f6e47553e59799b60a0581358786e07c"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 4,
+      "source_box": [
+        768,
+        832,
+        960,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\04.png",
+      "duration_ms": 280,
+      "rgba_sha256": "03ced937b14eb8209e7ab8b0d9acb4ed27bd1403bf4d65219cbc3c3d8211704e"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 0,
+      "source_box": [
+        0,
+        1040,
+        192,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "a5500641c4e8713c062e6aa0a2838a883e3c394d0808d6964fbfbfc575372b97"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 1,
+      "source_box": [
+        192,
+        1040,
+        384,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "3d3f9da2cd57de950b00b7cb7bdfb7075766fbc66a357cf59e703820de51b921"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 2,
+      "source_box": [
+        384,
+        1040,
+        576,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "8d78fa351ff973caa54585f7cced55f241cc5b2a837482747e89f50dd6c0c9b3"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 3,
+      "source_box": [
+        576,
+        1040,
+        768,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "44bfe30dcd4f0a9fba1ea3fca1f159b3a23b8793800bfe2b5032fbaad4fca2c9"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 4,
+      "source_box": [
+        768,
+        1040,
+        960,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\04.png",
+      "duration_ms": 140,
+      "rgba_sha256": "fce5586cc719de19941d7fbd67300c373503ca17ff30a4e4f6995e1660716862"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 5,
+      "source_box": [
+        960,
+        1040,
+        1152,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\05.png",
+      "duration_ms": 140,
+      "rgba_sha256": "bbc658a948c785f7d14635d76016685f3eec3f715e4548939a8709ef656670f5"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 6,
+      "source_box": [
+        1152,
+        1040,
+        1344,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\06.png",
+      "duration_ms": 140,
+      "rgba_sha256": "ae336616bb38fa21d7b7a212ff8f3999a500ef918c863776547fa09b5dc30bd1"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 7,
+      "source_box": [
+        1344,
+        1040,
+        1536,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\07.png",
+      "duration_ms": 240,
+      "rgba_sha256": "ef469a108a47f85d6721e3c3704d2902d58aef6f0a7dc4afc9382eb537048f90"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 0,
+      "source_box": [
+        0,
+        1248,
+        192,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\00.png",
+      "duration_ms": 150,
+      "rgba_sha256": "a44b159423477d8feb40380f15d00ace8131fbcc1ae934349042d3de35beea2a"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 1,
+      "source_box": [
+        192,
+        1248,
+        384,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\01.png",
+      "duration_ms": 150,
+      "rgba_sha256": "c00144724d3366c196943a51200a2860cdc0ba2b0a573602f600bb67f76d43d5"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 2,
+      "source_box": [
+        384,
+        1248,
+        576,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\02.png",
+      "duration_ms": 150,
+      "rgba_sha256": "88740ccf0c295fb2f5809fe712aa218d4413081614c1edc05dcad925dab52083"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 3,
+      "source_box": [
+        576,
+        1248,
+        768,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\03.png",
+      "duration_ms": 150,
+      "rgba_sha256": "bc8cb5ff56375d341488f3a1fa56bdd6270eb82039d8c8a465620480ae18754d"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 4,
+      "source_box": [
+        768,
+        1248,
+        960,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\04.png",
+      "duration_ms": 150,
+      "rgba_sha256": "ae3c8a3294766ed4ec8ed4aac2846aef56784c02bdc4beb0d899ab40c4afae7f"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 5,
+      "source_box": [
+        960,
+        1248,
+        1152,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\05.png",
+      "duration_ms": 260,
+      "rgba_sha256": "09f3976c522df3993fc4b0d5aedaf1e526cc7eb4afa7f03dbc4d01a0740655cc"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 0,
+      "source_box": [
+        0,
+        1456,
+        192,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "1ee6a8940d3fc66636822054b4bfd8ceddab9613a85665f394880886169a29cf"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 1,
+      "source_box": [
+        192,
+        1456,
+        384,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "3c6c425ca56213425e3838c666ca0c9243706d4adce1abb5ff3e0d0094d682ff"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 2,
+      "source_box": [
+        384,
+        1456,
+        576,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "46350c9adb77de76d51a215eed74398a7b0582f3fe5fe7480bcea724c1699b8f"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 3,
+      "source_box": [
+        576,
+        1456,
+        768,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "23868c53b94e6c9baadece66b9fd835ac7dff7f84c094e56f6f0585a359910b1"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 4,
+      "source_box": [
+        768,
+        1456,
+        960,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "170515697cf249c9396d0ccb69726966f91675b1d2dfc0e98ec6e0be47183924"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 5,
+      "source_box": [
+        960,
+        1456,
+        1152,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\05.png",
+      "duration_ms": 220,
+      "rgba_sha256": "90262aef3b0920a5b2b211d0011b2bb1d286479f69ffa2372f7529315f769738"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 0,
+      "source_box": [
+        0,
+        1664,
+        192,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\00.png",
+      "duration_ms": 150,
+      "rgba_sha256": "d92b21e97129e5c5384c316f11c37488db5887b5afee33d158fdf83e19928771"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 1,
+      "source_box": [
+        192,
+        1664,
+        384,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\01.png",
+      "duration_ms": 150,
+      "rgba_sha256": "e4600342387b8d210307b81c8b989fa207cdb69940a37b1c6963e2ffe26f3636"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 2,
+      "source_box": [
+        384,
+        1664,
+        576,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\02.png",
+      "duration_ms": 150,
+      "rgba_sha256": "9a37974d98757f4e1f5e95d8cbdca6cc0ea89bc5e55095576e30b2ad169eca2a"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 3,
+      "source_box": [
+        576,
+        1664,
+        768,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\03.png",
+      "duration_ms": 150,
+      "rgba_sha256": "2478e8c91465e8188ae8a8ea3efddaf74efd7fb17649e006e655102cd6b69f74"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 4,
+      "source_box": [
+        768,
+        1664,
+        960,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\04.png",
+      "duration_ms": 150,
+      "rgba_sha256": "215313fa8c7a617ab596f251f3a65ec166d7d231b322494cc78349e00ce79a60"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 5,
+      "source_box": [
+        960,
+        1664,
+        1152,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\05.png",
+      "duration_ms": 280,
+      "rgba_sha256": "09c028dc200ead1305c4bf23ed54a509412d399e34b40f14a6f5480f5049b38f"
+    },
+    {
+      "state": "look",
+      "direction": "000",
+      "row": 9,
+      "frame": 0,
+      "source_box": [
+        0,
+        1872,
+        192,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\000.png",
+      "duration_ms": 180,
+      "rgba_sha256": "00959cdf0ddc80bae92d692e9447d2c5d43bc4d4abfd24ad280127a69f213a48"
+    },
+    {
+      "state": "look",
+      "direction": "022.5",
+      "row": 9,
+      "frame": 1,
+      "source_box": [
+        192,
+        1872,
+        384,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\022.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "e85ed9b1d01d1fb9454babbdcf1f0693491b76605ebf67a42b06bf42cde5ff92"
+    },
+    {
+      "state": "look",
+      "direction": "045",
+      "row": 9,
+      "frame": 2,
+      "source_box": [
+        384,
+        1872,
+        576,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\045.png",
+      "duration_ms": 180,
+      "rgba_sha256": "a135a5c60c3fa91d93c254d63b74412bb8a1e24e1d6bccf0d8e400f75bdc775d"
+    },
+    {
+      "state": "look",
+      "direction": "067.5",
+      "row": 9,
+      "frame": 3,
+      "source_box": [
+        576,
+        1872,
+        768,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\067.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "45a1b7472b3e0757ad63eabf2f003366a34e3b024e625db56539bc2188511d54"
+    },
+    {
+      "state": "look",
+      "direction": "090",
+      "row": 9,
+      "frame": 4,
+      "source_box": [
+        768,
+        1872,
+        960,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\090.png",
+      "duration_ms": 180,
+      "rgba_sha256": "1da7b220ba0bc260547a8c807071e97cbfcd2344508ef3a6d15fa82dd1cb8b0b"
+    },
+    {
+      "state": "look",
+      "direction": "112.5",
+      "row": 9,
+      "frame": 5,
+      "source_box": [
+        960,
+        1872,
+        1152,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\112.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "b6be65e37437befda6c8983cf393953bf8c8a2d977b11da494b56908cc8fe936"
+    },
+    {
+      "state": "look",
+      "direction": "135",
+      "row": 9,
+      "frame": 6,
+      "source_box": [
+        1152,
+        1872,
+        1344,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\135.png",
+      "duration_ms": 180,
+      "rgba_sha256": "19c17f7c22bf80c609d5349430dd876bfe0431ac1d411f7776005426e95a11d1"
+    },
+    {
+      "state": "look",
+      "direction": "157.5",
+      "row": 9,
+      "frame": 7,
+      "source_box": [
+        1344,
+        1872,
+        1536,
+        2080
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\157.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "737ff94899423897489fd95b821d72514e8994d2755a2cc52078a3e47d36c15b"
+    },
+    {
+      "state": "look",
+      "direction": "180",
+      "row": 10,
+      "frame": 0,
+      "source_box": [
+        0,
+        2080,
+        192,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\180.png",
+      "duration_ms": 180,
+      "rgba_sha256": "5d667816ff1890db69c172cf70cccc1039acb8b479cee5fe9f3b525a9693f80d"
+    },
+    {
+      "state": "look",
+      "direction": "202.5",
+      "row": 10,
+      "frame": 1,
+      "source_box": [
+        192,
+        2080,
+        384,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\202.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "75b2da751076cd5a7e039635ef34af85ef6b76a2985783682394d54afef47185"
+    },
+    {
+      "state": "look",
+      "direction": "225",
+      "row": 10,
+      "frame": 2,
+      "source_box": [
+        384,
+        2080,
+        576,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\225.png",
+      "duration_ms": 180,
+      "rgba_sha256": "45aee68c22c2cd23cb4beb2d2ce37313a82d3bec8351f65cdf81f8889e2a4707"
+    },
+    {
+      "state": "look",
+      "direction": "247.5",
+      "row": 10,
+      "frame": 3,
+      "source_box": [
+        576,
+        2080,
+        768,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\247.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "9974afc385f4ef28d5ba5e3bad00ce6926c82e162fe63fc82a0e0b0cd8cb3d3f"
+    },
+    {
+      "state": "look",
+      "direction": "270",
+      "row": 10,
+      "frame": 4,
+      "source_box": [
+        768,
+        2080,
+        960,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\270.png",
+      "duration_ms": 180,
+      "rgba_sha256": "be95132b1592017262844176e6740c299ef416260b24e04134fc431ebcf4fde7"
+    },
+    {
+      "state": "look",
+      "direction": "292.5",
+      "row": 10,
+      "frame": 5,
+      "source_box": [
+        960,
+        2080,
+        1152,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\292.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "7f7d5a25402df39662c936656b4d6c5fda0bd1039f9de80f664479ef4ddb94dc"
+    },
+    {
+      "state": "look",
+      "direction": "315",
+      "row": 10,
+      "frame": 6,
+      "source_box": [
+        1152,
+        2080,
+        1344,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\315.png",
+      "duration_ms": 180,
+      "rgba_sha256": "7a157fe0bd73955d4d0c1b02939ebefdfea2f31465c85e2b8828552b45fd6c93"
+    },
+    {
+      "state": "look",
+      "direction": "337.5",
+      "row": 10,
+      "frame": 7,
+      "source_box": [
+        1344,
+        2080,
+        1536,
+        2288
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\look\\337.5.png",
+      "duration_ms": 180,
+      "rgba_sha256": "00b44c600323d07b3942c71c0db63504d1b0c50e5c5f77d4ce16a293c443966a"
+    }
+  ],
+  "all_states_timeline": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 0,
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\00.png",
+      "duration_ms": 280,
+      "rgba_sha256": "d01e359d6ea2370132db4d468b4f7da6e5adfde41f342c9d4f9d5f19a6f8f549",
+      "start_ms": 0
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 1,
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\01.png",
+      "duration_ms": 110,
+      "rgba_sha256": "43cad92ca1b87e5c7d4da38444f96c1ca8dec2e6b3c8f1e755fe6a47811e0dee",
+      "start_ms": 280
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 2,
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\02.png",
+      "duration_ms": 110,
+      "rgba_sha256": "c529057afc33eec283f92f04c6c552c2be08dae7f97aa8b870ef0c967e627b33",
+      "start_ms": 390
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 3,
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "df0f2612a5e7eb6d2ab55aa2a80ead6f34e4b843c51274ed2fb0ccf9ca1af551",
+      "start_ms": 500
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 4,
+      "source_box": [
+        768,
+        0,
+        960,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\04.png",
+      "duration_ms": 140,
+      "rgba_sha256": "53a3855d914a4e5986ae600fcfa64278a1fd3260425971e2a266bd558f65376e",
+      "start_ms": 640
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 5,
+      "source_box": [
+        960,
+        0,
+        1152,
+        208
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\05.png",
+      "duration_ms": 320,
+      "rgba_sha256": "ed03637d4fe5045643526db35b27ac5fc5609acccbc5b4c5dbc210a88633612d",
+      "start_ms": 780
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 0,
+      "source_box": [
+        0,
+        208,
+        192,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "3c513a4b87e6883f196647f17da9ea2a36f7eeb48418e7e573489d6f8adeb080",
+      "start_ms": 1100
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 1,
+      "source_box": [
+        192,
+        208,
+        384,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "26d8ea1d5b80b189c92d4473aaef143966a79a51d1a0062d40ac9c45c242cf51",
+      "start_ms": 1220
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 2,
+      "source_box": [
+        384,
+        208,
+        576,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "8deeb75fff3bbfa7305f94e8b73a64c78f2e27e7109337e84ed825c4f01b3358",
+      "start_ms": 1340
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 3,
+      "source_box": [
+        576,
+        208,
+        768,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "758961b402ba36316a8371b8723eb629664be7cecb0a93987457bbfe43c274c8",
+      "start_ms": 1460
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 4,
+      "source_box": [
+        768,
+        208,
+        960,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "0aef01e7defc12b0044ab81a8e43143d6c873e632182de19db66a46469bdc508",
+      "start_ms": 1580
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 5,
+      "source_box": [
+        960,
+        208,
+        1152,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\05.png",
+      "duration_ms": 120,
+      "rgba_sha256": "46877b361ec4f157100e70ea3ab1cda23566bc0750ff138c9085fe975702e75a",
+      "start_ms": 1700
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 6,
+      "source_box": [
+        1152,
+        208,
+        1344,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\06.png",
+      "duration_ms": 120,
+      "rgba_sha256": "bd5cdfc43689463626e87f09bd5378779c28391c4a3a19d6fe0e4fba6c8d45f3",
+      "start_ms": 1820
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frame": 7,
+      "source_box": [
+        1344,
+        208,
+        1536,
+        416
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-right\\07.png",
+      "duration_ms": 220,
+      "rgba_sha256": "83af6d3a2415f9e4b939cc2713afc95f873e3ed813bd0d5f52574edf4dfe1da7",
+      "start_ms": 1940
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 0,
+      "source_box": [
+        0,
+        416,
+        192,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "99b2b1f0bba7431cac543e7c019217453043a89a9fd80b33bdde605ef9069206",
+      "start_ms": 2160
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 1,
+      "source_box": [
+        192,
+        416,
+        384,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "58a7557face13b12b1deb4377d2217a8f712ccb3a516d3a6eb4c12ab07a1f741",
+      "start_ms": 2280
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 2,
+      "source_box": [
+        384,
+        416,
+        576,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "0bc8e04d9051a207f94b9364b6e9fb6db2c07eea5e6146d35d06a904f1b21ea3",
+      "start_ms": 2400
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 3,
+      "source_box": [
+        576,
+        416,
+        768,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "bebdd5fcac602e034ea461c7bb9f05ccd9c24a7e5bf99e649433e4630fa38e70",
+      "start_ms": 2520
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 4,
+      "source_box": [
+        768,
+        416,
+        960,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "330299879a2f32d7546bbb7fc1377fe2a9f9906922a9a75ebc73da40006b9e96",
+      "start_ms": 2640
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 5,
+      "source_box": [
+        960,
+        416,
+        1152,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\05.png",
+      "duration_ms": 120,
+      "rgba_sha256": "ec9a7e37552e8d6cce88f99d17cdd2c6e28e998774cb3f7954eb4a6bf7244bd7",
+      "start_ms": 2760
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 6,
+      "source_box": [
+        1152,
+        416,
+        1344,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\06.png",
+      "duration_ms": 120,
+      "rgba_sha256": "5b8e12f7bff049ca159bd14f7b9d724a6b281dc31649c79def1955ef6be2d32e",
+      "start_ms": 2880
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frame": 7,
+      "source_box": [
+        1344,
+        416,
+        1536,
+        624
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running-left\\07.png",
+      "duration_ms": 220,
+      "rgba_sha256": "fab0116c58da4f53b1f05bdf3cd8fb8b8ff40b358c57ca7afd5911584f0d630e",
+      "start_ms": 3000
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 0,
+      "source_box": [
+        0,
+        624,
+        192,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "a9547808b094432f99b34dbe8af710f88b35cf7f241a8233fd6daf8689fb7663",
+      "start_ms": 3220
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 1,
+      "source_box": [
+        192,
+        624,
+        384,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "cd368fa64528c8e996a3d80633a5b07704f8ab7c33ffb76e00124f8fb2489d32",
+      "start_ms": 3360
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 2,
+      "source_box": [
+        384,
+        624,
+        576,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "5c98ee4dd5a7dcb1367d5e854bc9c0b261642a7b1621d24e738cf85abfce1281",
+      "start_ms": 3500
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frame": 3,
+      "source_box": [
+        576,
+        624,
+        768,
+        832
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waving\\03.png",
+      "duration_ms": 280,
+      "rgba_sha256": "079c63cc96acc2df17b15c9ee966d74e82e3acfe5385e2a07968b5fcb440bb57",
+      "start_ms": 3640
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 0,
+      "source_box": [
+        0,
+        832,
+        192,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "7b386278022b5de0217121db0b4126ab121dc988e69b14c45a23455bfa3422f0",
+      "start_ms": 3920
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 1,
+      "source_box": [
+        192,
+        832,
+        384,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "75f2fd5645970a7d7142e0e032f941fb03e81f36543ff2dab6db5635ac0849aa",
+      "start_ms": 4060
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 2,
+      "source_box": [
+        384,
+        832,
+        576,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "0f93d1020683d7b0ad74a83d61172be3081fa774dbd251e8573df0eea8ab17a5",
+      "start_ms": 4200
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 3,
+      "source_box": [
+        576,
+        832,
+        768,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "9df0168e8eb8591e2bc6c3c9bb9c8d10f6e47553e59799b60a0581358786e07c",
+      "start_ms": 4340
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frame": 4,
+      "source_box": [
+        768,
+        832,
+        960,
+        1040
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\04.png",
+      "duration_ms": 280,
+      "rgba_sha256": "03ced937b14eb8209e7ab8b0d9acb4ed27bd1403bf4d65219cbc3c3d8211704e",
+      "start_ms": 4480
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 0,
+      "source_box": [
+        0,
+        1040,
+        192,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\00.png",
+      "duration_ms": 140,
+      "rgba_sha256": "a5500641c4e8713c062e6aa0a2838a883e3c394d0808d6964fbfbfc575372b97",
+      "start_ms": 4760
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 1,
+      "source_box": [
+        192,
+        1040,
+        384,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\01.png",
+      "duration_ms": 140,
+      "rgba_sha256": "3d3f9da2cd57de950b00b7cb7bdfb7075766fbc66a357cf59e703820de51b921",
+      "start_ms": 4900
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 2,
+      "source_box": [
+        384,
+        1040,
+        576,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\02.png",
+      "duration_ms": 140,
+      "rgba_sha256": "8d78fa351ff973caa54585f7cced55f241cc5b2a837482747e89f50dd6c0c9b3",
+      "start_ms": 5040
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 3,
+      "source_box": [
+        576,
+        1040,
+        768,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\03.png",
+      "duration_ms": 140,
+      "rgba_sha256": "44bfe30dcd4f0a9fba1ea3fca1f159b3a23b8793800bfe2b5032fbaad4fca2c9",
+      "start_ms": 5180
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 4,
+      "source_box": [
+        768,
+        1040,
+        960,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\04.png",
+      "duration_ms": 140,
+      "rgba_sha256": "fce5586cc719de19941d7fbd67300c373503ca17ff30a4e4f6995e1660716862",
+      "start_ms": 5320
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 5,
+      "source_box": [
+        960,
+        1040,
+        1152,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\05.png",
+      "duration_ms": 140,
+      "rgba_sha256": "bbc658a948c785f7d14635d76016685f3eec3f715e4548939a8709ef656670f5",
+      "start_ms": 5460
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 6,
+      "source_box": [
+        1152,
+        1040,
+        1344,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\06.png",
+      "duration_ms": 140,
+      "rgba_sha256": "ae336616bb38fa21d7b7a212ff8f3999a500ef918c863776547fa09b5dc30bd1",
+      "start_ms": 5600
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frame": 7,
+      "source_box": [
+        1344,
+        1040,
+        1536,
+        1248
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\failed\\07.png",
+      "duration_ms": 240,
+      "rgba_sha256": "ef469a108a47f85d6721e3c3704d2902d58aef6f0a7dc4afc9382eb537048f90",
+      "start_ms": 5740
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 0,
+      "source_box": [
+        0,
+        1248,
+        192,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\00.png",
+      "duration_ms": 150,
+      "rgba_sha256": "a44b159423477d8feb40380f15d00ace8131fbcc1ae934349042d3de35beea2a",
+      "start_ms": 5980
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 1,
+      "source_box": [
+        192,
+        1248,
+        384,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\01.png",
+      "duration_ms": 150,
+      "rgba_sha256": "c00144724d3366c196943a51200a2860cdc0ba2b0a573602f600bb67f76d43d5",
+      "start_ms": 6130
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 2,
+      "source_box": [
+        384,
+        1248,
+        576,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\02.png",
+      "duration_ms": 150,
+      "rgba_sha256": "88740ccf0c295fb2f5809fe712aa218d4413081614c1edc05dcad925dab52083",
+      "start_ms": 6280
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 3,
+      "source_box": [
+        576,
+        1248,
+        768,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\03.png",
+      "duration_ms": 150,
+      "rgba_sha256": "bc8cb5ff56375d341488f3a1fa56bdd6270eb82039d8c8a465620480ae18754d",
+      "start_ms": 6430
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 4,
+      "source_box": [
+        768,
+        1248,
+        960,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\04.png",
+      "duration_ms": 150,
+      "rgba_sha256": "ae3c8a3294766ed4ec8ed4aac2846aef56784c02bdc4beb0d899ab40c4afae7f",
+      "start_ms": 6580
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 5,
+      "source_box": [
+        960,
+        1248,
+        1152,
+        1456
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\waiting\\05.png",
+      "duration_ms": 260,
+      "rgba_sha256": "09f3976c522df3993fc4b0d5aedaf1e526cc7eb4afa7f03dbc4d01a0740655cc",
+      "start_ms": 6730
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 0,
+      "source_box": [
+        0,
+        1456,
+        192,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\00.png",
+      "duration_ms": 120,
+      "rgba_sha256": "1ee6a8940d3fc66636822054b4bfd8ceddab9613a85665f394880886169a29cf",
+      "start_ms": 6990
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 1,
+      "source_box": [
+        192,
+        1456,
+        384,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\01.png",
+      "duration_ms": 120,
+      "rgba_sha256": "3c6c425ca56213425e3838c666ca0c9243706d4adce1abb5ff3e0d0094d682ff",
+      "start_ms": 7110
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 2,
+      "source_box": [
+        384,
+        1456,
+        576,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\02.png",
+      "duration_ms": 120,
+      "rgba_sha256": "46350c9adb77de76d51a215eed74398a7b0582f3fe5fe7480bcea724c1699b8f",
+      "start_ms": 7230
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 3,
+      "source_box": [
+        576,
+        1456,
+        768,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\03.png",
+      "duration_ms": 120,
+      "rgba_sha256": "23868c53b94e6c9baadece66b9fd835ac7dff7f84c094e56f6f0585a359910b1",
+      "start_ms": 7350
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 4,
+      "source_box": [
+        768,
+        1456,
+        960,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\04.png",
+      "duration_ms": 120,
+      "rgba_sha256": "170515697cf249c9396d0ccb69726966f91675b1d2dfc0e98ec6e0be47183924",
+      "start_ms": 7470
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 5,
+      "source_box": [
+        960,
+        1456,
+        1152,
+        1664
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\05.png",
+      "duration_ms": 220,
+      "rgba_sha256": "90262aef3b0920a5b2b211d0011b2bb1d286479f69ffa2372f7529315f769738",
+      "start_ms": 7590
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 0,
+      "source_box": [
+        0,
+        1664,
+        192,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\00.png",
+      "duration_ms": 150,
+      "rgba_sha256": "d92b21e97129e5c5384c316f11c37488db5887b5afee33d158fdf83e19928771",
+      "start_ms": 7810
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 1,
+      "source_box": [
+        192,
+        1664,
+        384,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\01.png",
+      "duration_ms": 150,
+      "rgba_sha256": "e4600342387b8d210307b81c8b989fa207cdb69940a37b1c6963e2ffe26f3636",
+      "start_ms": 7960
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 2,
+      "source_box": [
+        384,
+        1664,
+        576,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\02.png",
+      "duration_ms": 150,
+      "rgba_sha256": "9a37974d98757f4e1f5e95d8cbdca6cc0ea89bc5e55095576e30b2ad169eca2a",
+      "start_ms": 8110
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 3,
+      "source_box": [
+        576,
+        1664,
+        768,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\03.png",
+      "duration_ms": 150,
+      "rgba_sha256": "2478e8c91465e8188ae8a8ea3efddaf74efd7fb17649e006e655102cd6b69f74",
+      "start_ms": 8260
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 4,
+      "source_box": [
+        768,
+        1664,
+        960,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\04.png",
+      "duration_ms": 150,
+      "rgba_sha256": "215313fa8c7a617ab596f251f3a65ec166d7d231b322494cc78349e00ce79a60",
+      "start_ms": 8410
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 5,
+      "source_box": [
+        960,
+        1664,
+        1152,
+        1872
+      ],
+      "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\05.png",
+      "duration_ms": 280,
+      "rgba_sha256": "09c028dc200ead1305c4bf23ed54a509412d399e34b40f14a6f5480f5049b38f",
+      "start_ms": 8560
+    }
+  ],
+  "previews": [
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\idle.gif",
+      "source_frames": 6,
+      "encoded_frames": 6,
+      "duration_ms": 1100,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\running-right.gif",
+      "source_frames": 8,
+      "encoded_frames": 8,
+      "duration_ms": 1060,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\running-left.gif",
+      "source_frames": 8,
+      "encoded_frames": 8,
+      "duration_ms": 1060,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\waving.gif",
+      "source_frames": 4,
+      "encoded_frames": 4,
+      "duration_ms": 700,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\jumping.gif",
+      "source_frames": 5,
+      "encoded_frames": 5,
+      "duration_ms": 840,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\failed.gif",
+      "source_frames": 8,
+      "encoded_frames": 8,
+      "duration_ms": 1220,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\waiting.gif",
+      "source_frames": 6,
+      "encoded_frames": 6,
+      "duration_ms": 1010,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\running.gif",
+      "source_frames": 6,
+      "encoded_frames": 6,
+      "duration_ms": 820,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\review.gif",
+      "source_frames": 6,
+      "encoded_frames": 6,
+      "duration_ms": 1030,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\all-states.gif",
+      "source_frames": 57,
+      "encoded_frames": 57,
+      "duration_ms": 8840,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\idle-jump-idle.gif",
+      "source_frames": 17,
+      "encoded_frames": 17,
+      "duration_ms": 3040,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    },
+    {
+      "file": "Pets/kenken-panda\\qa\\previews-final\\look-loop.gif",
+      "source_frames": 16,
+      "encoded_frames": 16,
+      "duration_ms": 2880,
+      "native_cell_size": [
+        192,
+        208
+      ]
+    }
+  ],
+  "video": {
+    "file": "Pets/kenken-panda\\qa\\previews-final\\all-states.mp4",
+    "encoder": "ffmpeg",
+    "fps": 100,
+    "duration_ms": 8840,
+    "video_frames": 884,
+    "native_cell_size": [
+      192,
+      208
+    ],
+    "codec": "h264"
+  },
+  "still_strip": {
+    "file": "Pets/kenken-panda\\qa\\previews-final\\motion-stills.png",
+    "frames": [
+      {
+        "state": "idle",
+        "row": 0,
+        "frame": 0,
+        "source_box": [
+          0,
+          0,
+          192,
+          208
+        ],
+        "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\idle\\00.png",
+        "duration_ms": 280,
+        "rgba_sha256": "d01e359d6ea2370132db4d468b4f7da6e5adfde41f342c9d4f9d5f19a6f8f549",
+        "start_ms": 0,
+        "strip_box": [
+          0,
+          28,
+          192,
+          236
+        ]
+      },
+      {
+        "state": "jumping",
+        "row": 4,
+        "frame": 2,
+        "source_box": [
+          384,
+          832,
+          576,
+          1040
+        ],
+        "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\jumping\\02.png",
+        "duration_ms": 140,
+        "rgba_sha256": "0f93d1020683d7b0ad74a83d61172be3081fa774dbd251e8573df0eea8ab17a5",
+        "start_ms": 4200,
+        "strip_box": [
+          192,
+          28,
+          384,
+          236
+        ]
+      },
+      {
+        "state": "running",
+        "row": 7,
+        "frame": 2,
+        "source_box": [
+          384,
+          1456,
+          576,
+          1664
+        ],
+        "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\running\\02.png",
+        "duration_ms": 120,
+        "rgba_sha256": "46350c9adb77de76d51a215eed74398a7b0582f3fe5fe7480bcea724c1699b8f",
+        "start_ms": 7230,
+        "strip_box": [
+          384,
+          28,
+          576,
+          236
+        ]
+      },
+      {
+        "state": "review",
+        "row": 8,
+        "frame": 2,
+        "source_box": [
+          384,
+          1664,
+          576,
+          1872
+        ],
+        "file": "Pets/kenken-panda\\qa\\previews-final\\final-frames\\review\\02.png",
+        "duration_ms": 150,
+        "rgba_sha256": "9a37974d98757f4e1f5e95d8cbdca6cc0ea89bc5e55095576e30b2ad169eca2a",
+        "start_ms": 8110,
+        "strip_box": [
+          576,
+          28,
+          768,
+          236
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

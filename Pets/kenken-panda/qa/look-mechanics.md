@@ -1,0 +1,3 @@
+# Panda look mechanics
+
+The seated torso, both feet, paws, and bamboo remain anchored at a common ground baseline. The separate soft head leads gaze by moderate yaw and pitch; the muzzle and nose visibly move toward the target. Whole glossy dark eyes and eyelids follow naturally within the original black eye patches. Ears and cheeks follow head rotation; the face stays readable even at cardinals. No whole-body rotation, no replacement white cartoon eyes, no detached pupils. Up uses chin lift, a higher muzzle and visible upward gaze. Down uses a bowed head and lower nose. Right/left use head yaw with the nose tip displaced toward the screen edge. Diagonals combine the corresponding yaw and pitch in even steps. Bamboo remains connected across the belly.

@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "Pets/kenken-panda\\qa\\rows\\running\\frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24581,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 638
+        },
+        {
+          "index": 1,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24783,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 642
+        },
+        {
+          "index": 2,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24748,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 591
+        },
+        {
+          "index": 3,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24859,
+          "bbox": [
+            22,
+            6,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 619
+        },
+        {
+          "index": 4,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24377,
+          "bbox": [
+            22,
+            6,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 640
+        },
+        {
+          "index": 5,
+          "file": "Pets/kenken-panda\\qa\\rows\\running\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24373,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 634
+        }
+      ]
+    }
+  ]
+}
