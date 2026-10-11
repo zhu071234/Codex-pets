@@ -2,6 +2,7 @@
   "pet": "啃啃",
   "date": "2026-10-11",
   "public_copy": true,
+  "latest_revision": "Pets/kenken-panda/revisions/2026-10-11-chewing",
   "files": [
     {
       "path": ".gitignore",
@@ -1689,9 +1690,1074 @@
       "sha256": "1fba5c4d03fb5b5c02ddef89d67db0f0b6c9490bfbbfa97d6bebe10096789a22"
     },
     {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/current-spritesheet.png",
+      "bytes": 2544661,
+      "sha256": "22c4e07a47eab9ba5190e8588d2caac174b221d89661232478b11206812d32e4"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/decoded/idle.png",
+      "bytes": 1920115,
+      "sha256": "77dcb0829268837d67fc0a761fa32044f0454f008499f33fdf4ee7bd54762810"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/decoded/running.png",
+      "bytes": 1921782,
+      "sha256": "ecba37d2238cf7d811cdcaa7c41098e34796da9cb4a67325ec3d0126c11c18f1"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/final/spritesheet-base.png",
+      "bytes": 1962440,
+      "sha256": "f7fed5155c047de15c06ec463a4bf890c393c950450ff1fb401e63fd8e124075"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/final/spritesheet-extended-raw.png",
+      "bytes": 2532580,
+      "sha256": "4bdbf000e5ec033fcef24256c2f5bf5c790512cd511a21be28c76a3e5182d2c8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/final/spritesheet-extended.png",
+      "bytes": 2493021,
+      "sha256": "3c03a80d0cd88dbc98027015329d0af546ff57289979f1c2afa28382a8998925"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/final/validation-extended.json",
+      "bytes": 19101,
+      "sha256": "e3b4fe473048c5909ca6dd21b63ab001d56723c7a1062c2a5e07047abffa5d9e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/00.png",
+      "bytes": 37349,
+      "sha256": "697a849f81d8dcb7c036ff6bf3a389407eb7780c45dc5113ac67be0b078b2f40"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/01.png",
+      "bytes": 36546,
+      "sha256": "0f10a1deb13ce3c67065607fba48ed69fa38ef80d4bf443534f7f08dcca6d84a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/02.png",
+      "bytes": 36493,
+      "sha256": "69d57548c5574edf7cab570fa5eb1fc4a5564d4ac36268e91f6ea587681333cd"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/03.png",
+      "bytes": 35976,
+      "sha256": "d6f43dafebf13d423e65b2275a3e5d6c414aa9df06dd2d0f7f4baf222708c3ad"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/04.png",
+      "bytes": 34883,
+      "sha256": "be09b991e425c70184d48cc42d863ac3162fb2fd87d3647630afbc00e5b57401"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/05.png",
+      "bytes": 35066,
+      "sha256": "b5314df9be8ceb32a9a8cc63e64ec69547025e65c58ca7ffd100695d48639389"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/06.png",
+      "bytes": 35489,
+      "sha256": "4ff9ffdf417e33a1fb9f71ac52fcc74d816288d2c10eddf8b2fdad9df681a218"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/failed/07.png",
+      "bytes": 37829,
+      "sha256": "77392820cf6930f35fc95b8822bdd16e7d6c4306273c2a4c783069843f6011fb"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/frames-manifest.json",
+      "bytes": 768,
+      "sha256": "3c3314d1723ae9a1795a1d8b9948140a88196dcbd2c19e9ba875eaadef4bf435"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/00.png",
+      "bytes": 39872,
+      "sha256": "39015486cb7546079d0f18b2a77dccfc7698d35650a5294d39e6c37fb47666b9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/01.png",
+      "bytes": 39917,
+      "sha256": "39941ac9f079fae8efa88328487312b3b623acab01ed8dd28c1511938188c444"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/02.png",
+      "bytes": 39132,
+      "sha256": "64a3dca1d65e3a76637831675609597190535ce2f52e4ad00bc26b9d64e6e2c6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/03.png",
+      "bytes": 39760,
+      "sha256": "a27c24a1a53c457f7569baafb1dc73647641776981d41c081505bd8ea9f323f8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/04.png",
+      "bytes": 38966,
+      "sha256": "5ffe5f27ff92ed03f063c4c4c82ad66672658b304480fb58c3a5a5b4ba524baa"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/idle/05.png",
+      "bytes": 39327,
+      "sha256": "c32fa9aeaf136a8ed2adc831241b9dfdc634f670d8da93aca05c7af1176e3575"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/jumping/00.png",
+      "bytes": 38465,
+      "sha256": "f42b505f2a47ec02c30f3b691fb461859fe03ea3fabba1ac1ad2ef09392130a4"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/jumping/01.png",
+      "bytes": 39459,
+      "sha256": "48fe5b02606ddc4aec30a9c4b67d10ea7c0f148b2650608d2ccaf078de2f72e7"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/jumping/02.png",
+      "bytes": 40078,
+      "sha256": "257713a636b481ce696ae30ee0824017815ee38329fd3c2bacba033025d303cc"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/jumping/03.png",
+      "bytes": 39322,
+      "sha256": "fd250984e5bfd6e7d72c1c0e3aa804dc34998edea8701228c6201b4402fcac9e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/jumping/04.png",
+      "bytes": 38544,
+      "sha256": "53b3db9e52fa9e8e2d7a24a4d4728053db729de79784f3912ddfe04ff5835d24"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/00.png",
+      "bytes": 37265,
+      "sha256": "38abb27e15edbfb36d537bd518f2804fa8392ac2f6d1d70390fd9cf9d4814b33"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/01.png",
+      "bytes": 35515,
+      "sha256": "283e2979acecacc25637e667466b1059fa8beb7390e2f316b1c9dab534d50ad6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/02.png",
+      "bytes": 36611,
+      "sha256": "227232cb091352720dc1f724638d95e6047ef60a32e94a2f41fb4eae032596f9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/03.png",
+      "bytes": 35482,
+      "sha256": "f037e345ac17ca76d65f5a0c7aada14dd5df794bf341cf70ee3585b0ef03f024"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/04.png",
+      "bytes": 37123,
+      "sha256": "dfd40047339099b82760723522f42a8d2a9e38cd2cd7630d922dd33b0cce4fd9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/review/05.png",
+      "bytes": 36828,
+      "sha256": "e15cb4b78147e49836187adb5c10559857644445abcad35951b4c102ca11f96e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/00.png",
+      "bytes": 38270,
+      "sha256": "80c4dc05a5e9159bb2e955ad9e3dfb4bdce202ac870f2db5152ba2c50637cce9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/01.png",
+      "bytes": 38463,
+      "sha256": "eca6cf80dbe5fe1832549224146e0c8514ed3815185e74cd9c381689ab561de5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/02.png",
+      "bytes": 37724,
+      "sha256": "0bdd0b7d4e461691927c7f2f12328ee1045e76a982797fb4ceec941d96ccf02a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/03.png",
+      "bytes": 38232,
+      "sha256": "bbd8e343c6b9a3e9205d2bfb07c9b2aa840e3be1d29d90aa21f609c5d3bf43a5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/04.png",
+      "bytes": 38044,
+      "sha256": "d62d326de7cfcbbcc96ad4b0e0ed4079ec2655b7e49bf0aa35919e66707787af"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running/05.png",
+      "bytes": 37870,
+      "sha256": "535bfc1106ca499a65d41d4bcc86080754830ff939e33bf1cc23f17e25fa182b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/00.png",
+      "bytes": 29287,
+      "sha256": "b0d33bebaff69ddbb97ae5295ae0546c26f9d24e9fa04d5a3e6f49ddfa25d6c3"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/01.png",
+      "bytes": 28582,
+      "sha256": "a5fb797346c448480bd8e5790938ebcd8a47856078a204ce4ee798c6378d752a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/02.png",
+      "bytes": 29133,
+      "sha256": "2bd6f983ce0099cf3c8a271ebe9b4ec2941ffb919271e5697e6b44d2dbf71dca"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/03.png",
+      "bytes": 28661,
+      "sha256": "8127160b218436a8ce16a786a148386557c64d8073eabb91b25bc58f692b73f0"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/04.png",
+      "bytes": 29284,
+      "sha256": "1b39f76b28920f1dfd3bc19b0cd8cdf84fb04d0e09f38313985e1b8185dc7253"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/05.png",
+      "bytes": 27597,
+      "sha256": "46046414b5b1dbd319b6ab79c8eb42f9d3d0309ba9195c7fe3fc508d5f7cdb34"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/06.png",
+      "bytes": 29651,
+      "sha256": "d5b958db16a4d50dcaa437bb062fbbb25fdd006dfee270d1a8cb4530d96dbfd6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-left/07.png",
+      "bytes": 29939,
+      "sha256": "7315f28e9ba1d92c969fde551bf04edb57359ffc65ae27cdbeb9aae7cfd80352"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/00.png",
+      "bytes": 29468,
+      "sha256": "fed133ad83facd7e6a339b752926478204c91f9b5353fa5290349b44647772c2"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/01.png",
+      "bytes": 28676,
+      "sha256": "9ae9ff84bd0a9057fac34d7848a589d572f375ba79003d86b6e1356295f4c1fe"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/02.png",
+      "bytes": 29134,
+      "sha256": "e1795cc75a0f1bbdf70f988c09a5bf4ae56da5d55590ca0b1ee70889c138a91e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/03.png",
+      "bytes": 28736,
+      "sha256": "c842bf3b5c7e1298725e11f6476462a546a7271d17057587abd40b38b0845d02"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/04.png",
+      "bytes": 29275,
+      "sha256": "c10b4b5027d07a952ed59a186e0e9fc2ba29534a9a096789164d63b4bcb555ef"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/05.png",
+      "bytes": 27632,
+      "sha256": "bc838ac12c5b166802873435641ac66ae2a9f7f07952d6e739cac4dcbfabcc85"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/06.png",
+      "bytes": 29652,
+      "sha256": "8ffcc4ed1f3795c5076a11414f04413722b8493b97f4ff96455a0aea594133aa"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/running-right/07.png",
+      "bytes": 29976,
+      "sha256": "da42f7520988533afb85d9e8f326086f004f0f3c3b18464ebfad8cbe973a3691"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/00.png",
+      "bytes": 34472,
+      "sha256": "4395ba9c8eed082354916decda969e0e7ec1830071c3db56fd258d03a691c465"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/01.png",
+      "bytes": 34485,
+      "sha256": "96da1cf6445ac4995eeb7340a415c205fbf332d3268d192425ea1f36f83ed503"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/02.png",
+      "bytes": 33172,
+      "sha256": "a98a20b5245e75cd80060c7dc999da2b9d760f2244df745d3f5e2199450d877c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/03.png",
+      "bytes": 34760,
+      "sha256": "11eed72df3a8f04235895eba49379de78327a199f728c8496845ea0aafa6192f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/04.png",
+      "bytes": 34141,
+      "sha256": "8a0592672b296db8dbbd4d6d5a7a1f263d08707aa5d1785634176a4a881d095e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waiting/05.png",
+      "bytes": 34388,
+      "sha256": "5d35ae262b5a347c5ec5ac65f95830f5ace49907589afbcff67562cd16613809"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waving/00.png",
+      "bytes": 37547,
+      "sha256": "cced51949524142b15820e2106065c1cc9aa6439582acfbb4516d7cce88bd4a5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waving/01.png",
+      "bytes": 39574,
+      "sha256": "160ae15bc0b070c78a986db61b3a5706e1d0e11ceab7e0cdd563bb3e1728137c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waving/02.png",
+      "bytes": 39150,
+      "sha256": "71b02124f380297902b1a505240c911df2a81cd941c4ac0f5c92b2f70abb4a80"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/frames/waving/03.png",
+      "bytes": 37262,
+      "sha256": "2a428cde4c201dd43e71f8f7e6e5a199bbede357ddcecf1f46c4e3cbfded0a9b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/idle-repair-prompt.md",
+      "bytes": 2790,
+      "sha256": "c878512e16a0133e7860532cba2c3bd5e038a33ff7d0c77a978500adaa86d02a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/imagegen-jobs.json",
+      "bytes": 19979,
+      "sha256": "80f889fe284a61d49fc16f606709bb2c6e599a7f9a8a2a881d8c8e7136c34408"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/pet_request.json",
+      "bytes": 8969,
+      "sha256": "ddea3064820be0f3f172942d44f228bc1791514a479ad8c82f36d578c711ae2b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/base-pet.md",
+      "bytes": 1074,
+      "sha256": "ba97e66fd0d550eeb216ff908d51baea5cbae93bc23826dd3e4eefdf87ce69b2"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/look-anchor-repairs/000.md",
+      "bytes": 874,
+      "sha256": "37d07251da97737eb05431859e702f0791b93f6a94a25837909f5ffe75c7f49b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/look-anchor-repairs/090.md",
+      "bytes": 891,
+      "sha256": "82dea9ff0cf31fc32b034c5305d899671ebd0600e0bd03b276533f900dcea35b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/look-anchor-repairs/180.md",
+      "bytes": 879,
+      "sha256": "00986c9387c85680798462db7f178aee0f99784692d4b558c1938b03fa90bd2d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/look-anchor-repairs/270.md",
+      "bytes": 889,
+      "sha256": "6c6d5a2d4f6fb5c469116926dec2f85a751fe0ddb3366cb4effeef75f3210572"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/look-cardinals.md",
+      "bytes": 1462,
+      "sha256": "c9ab4b25778aef9ddceb2821f8c2442f76215b349cd044ff9922d9602907307d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/failed.md",
+      "bytes": 1441,
+      "sha256": "5aa02027c0f944c8a05bd2622fa69a4d8de9d3666a9d3840ea2f1472853f9ac5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/idle.md",
+      "bytes": 1981,
+      "sha256": "4d4d35ca7678e44f8aa6b2872645b6fa5eb99f5a12bf3648152a6c7228cc2767"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/jumping.md",
+      "bytes": 1439,
+      "sha256": "2abd7ef92057f668cc0a81aa8cbaa6427821c402189b5c3b5d991692b35318cc"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/look-row-10.md",
+      "bytes": 3702,
+      "sha256": "03b31eb58bd417fb6b85077dbf48a92de50623f1d3530d490d01c1d8da649423"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/look-row-9.md",
+      "bytes": 3618,
+      "sha256": "add54a2156b31eb517167c293729fa602a014137d8e9af5eea1d6a46fc607be6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/review.md",
+      "bytes": 1324,
+      "sha256": "63daa83042f4678d4d7a3e7e7598c00d41b6efb70803587d8515074129a36310"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/running-left.md",
+      "bytes": 1432,
+      "sha256": "fd292ee9c27a5edf6a98a5015e81d248513848eb154d8d0bcd6f7223a56e70a0"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/running-right.md",
+      "bytes": 1437,
+      "sha256": "cd3c1c85af00ccae73c8f259fc4818678a19f74bbb851f10c73c100db827610a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/running.md",
+      "bytes": 1669,
+      "sha256": "49786c710c151b8059f3d98228b417f35effb5495d2fc072a7f7ce9bbfc26d31"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/waiting.md",
+      "bytes": 1237,
+      "sha256": "48d69d0e1851101ef4d7605a4b667ae31292882f5833a06428d5de7db4c0ad9b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/row-retries/waving.md",
+      "bytes": 1247,
+      "sha256": "7ac72f189d5d8706022e52edafc6eabec50351ad86645ce17728e7a2bb827768"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/failed.md",
+      "bytes": 2193,
+      "sha256": "8adcaba4a6ea049b29b3af54aa5373e277c3c851e427393617ca6f83cd1cb3c9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/idle.md",
+      "bytes": 2733,
+      "sha256": "b1a8362611844c501890b28f77bcc1702e493eb8a4b306c6d5709bacb81a5c68"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/jumping.md",
+      "bytes": 2191,
+      "sha256": "f4c57afc304e17505c05688dbda7c4624125ca76e0703a26d904c0613856af43"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/look-row-10.md",
+      "bytes": 4818,
+      "sha256": "cf8cd485b4b3940aff658071efa7494ec66cf0812cb1e49124eaec76921e3061"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/look-row-9.md",
+      "bytes": 4748,
+      "sha256": "c3153ccf98e2dd8055ac36cbd7c1a6e613fae3e40b4aea99f941ede80a77ab91"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/review.md",
+      "bytes": 2076,
+      "sha256": "dfebf35a2800e9c93854f5eecd343f5d4a589a4a43200dcca8899b302d5a8206"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/running-left.md",
+      "bytes": 2184,
+      "sha256": "a3ad71b2173cc1c5e15b70c7744d46df60a8025d396444c463ac184be4406e89"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/running-right.md",
+      "bytes": 2189,
+      "sha256": "adebecf5b5d55d92db61155020a304e1e201ac2fecb77fdb790aebdb3fe7ce6d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/running.md",
+      "bytes": 2421,
+      "sha256": "c93fec7f4626969c2c49f9f17830c3a6a44e29bb4b17eee06d7fdafb3f892bb0"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/waiting.md",
+      "bytes": 1989,
+      "sha256": "d5547334b095afbdd95090077f27701c303e3e356c1ff6531f886ae031ed7809"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/prompts/rows/waving.md",
+      "bytes": 1999,
+      "sha256": "e6f6749b634ac1dd4ce35713d02ea375be16059b7c8e4c47288ba3fd8e438b8a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/chewing-frames.png",
+      "bytes": 379812,
+      "sha256": "a18b47ce3ca8fcc725a91806d77dcdebd0ddce0c918cc1a8fc2af1d59fd899aa"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/chroma-despill-extended.json",
+      "bytes": 1958,
+      "sha256": "83f673e7413b3d50d9eb56914133ec7d517ab70a59cd147aba6638d7c03d010b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/contact-sheet-extended.png",
+      "bytes": 2166041,
+      "sha256": "b560efba1b11443c2b6c4aafdd2b01e794d470a28290c1cff649448f39784095"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/direction-semantics.json",
+      "bytes": 5844,
+      "sha256": "2cac7ed297006ef52b2e4c47bf56561f8681766d97cb7fefdb406fe34cdfb62d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/directions-labeled.png",
+      "bytes": 800865,
+      "sha256": "6a504a8a15c937416924adc7753a3a48411b9d536eb3e506aac0df8ec4a7d5ef"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/idle-registration.json",
+      "bytes": 1318,
+      "sha256": "0887d90c65147b27279350f433d42c185786f214f16741069274691bd4b0189f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/look-continuity.json",
+      "bytes": 11345,
+      "sha256": "82e0e64d67c036884a9b1249262f2856680a095480434f6b63e96660d869fc4d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/pet-quality.json",
+      "bytes": 2564,
+      "sha256": "d3817436fa51ebf4d6ba44f5850ba7fb6313a2f39be8264cd3828564aaa40b3a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/all-states.ffmpeg.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/all-states.gif",
+      "bytes": 1017623,
+      "sha256": "17b913a765b0bf3abaa606b4368d9bd90d880ccb88365b4a2a2478794ecfd028"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/all-states.mp4",
+      "bytes": 193891,
+      "sha256": "825a21a4c5f6f4208d33fa656be0a043b08a494f7392e410726cf1685e46f4a3"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/failed.gif",
+      "bytes": 149593,
+      "sha256": "f570d64dbbc3aa443b6b798b51d2414c07cf8511b8947ebf48f7471bfd04e9a3"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/00.png",
+      "bytes": 36737,
+      "sha256": "09afe8691b191d0a8bc116eda3a9eba012663fc30f82abc2adb46e8abf970fd7"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/01.png",
+      "bytes": 35805,
+      "sha256": "b319cc9b4d447601505de2ce3af34a1e1a6ed831420e1a2707113256009e262b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/02.png",
+      "bytes": 35786,
+      "sha256": "acc2dd55bd8996daaa7958cffa84073babfab50f11ded899fe6885c9df47ba77"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/03.png",
+      "bytes": 35292,
+      "sha256": "864262efdb67820c36faee8de587aded3331320907a79a1139848f7182def188"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/04.png",
+      "bytes": 34284,
+      "sha256": "65073019d1f1870a0fbb3b79c789a3dbee77a0034c72313eea7222902db4b691"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/05.png",
+      "bytes": 34414,
+      "sha256": "666605adb626107a998f34d22615642a3fd843a37947925ee4a1580ac6fbe01b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/06.png",
+      "bytes": 34944,
+      "sha256": "48171382ff59734b3179a2f134185d2a4b1326900ff941ef6b48850947a7924d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/failed/07.png",
+      "bytes": 37171,
+      "sha256": "88f90b8a5ab72b0b8a6cfc53b3bd7213b2571d0fed64ae9698ce96efc24dc4cb"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/frames-manifest.json",
+      "bytes": 7597,
+      "sha256": "b5261baea13a8714642285ffa71760bcd8ec791bf1e6d780e8e211804ec18df9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/00.png",
+      "bytes": 39012,
+      "sha256": "3a0cd28b8a4dea067e6eeea6a0700b9b2617fa769e271d9c0d3c6780094e807a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/01.png",
+      "bytes": 39076,
+      "sha256": "e1ddcb558f6fe657ced3f74a10c5ac487d4e1682312e04543a03df25a2a44e13"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/02.png",
+      "bytes": 38305,
+      "sha256": "302f8246d615f5da8c157b2743a2dae8a0ded9ba813154bff957f9305593050c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/03.png",
+      "bytes": 38944,
+      "sha256": "ef56ece0762e403b2c21cd25b91ddb4b2e80c96a546ef16e6557693bf7d46b98"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/04.png",
+      "bytes": 38226,
+      "sha256": "4e8ddf48d4fe8857cb5c94c1635c5f6f2810a14d3403e181393547ef7d94d534"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/idle/05.png",
+      "bytes": 38388,
+      "sha256": "e61fd8a9e567f478bd0be91edb47de7749c952d65447f1be857c7ee6b4859cb1"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/jumping/00.png",
+      "bytes": 37971,
+      "sha256": "bcbd1b228c84bac64898b36cbef219c6fda42ad52c322a327618a7171d1d3d76"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/jumping/01.png",
+      "bytes": 38956,
+      "sha256": "f6054444f98ae0ac2d16da2f6706fae8ee635e608f0f9fca6ce8b5a616a8a387"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/jumping/02.png",
+      "bytes": 39435,
+      "sha256": "52335787ab87c82ebbd9eb2c431ed0870836b6956d46e1c1254109504a927d56"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/jumping/03.png",
+      "bytes": 38836,
+      "sha256": "c795b4b1e79baf56e413be0ee801eff5d4c329e7deaaa2e11f9ce83091e5b8b3"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/jumping/04.png",
+      "bytes": 38003,
+      "sha256": "99605b77f72d2f35e6baad1b49c8a93a43b65c2abfc230dc9d694bddb59372b6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/000.png",
+      "bytes": 38018,
+      "sha256": "816d808d422a4af83d5c7b9927568c78cd4051e15dd837b0d8dc0306c6246f17"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/022.5.png",
+      "bytes": 36524,
+      "sha256": "2f6acd9c4c16a6aa4686fdcb5e95a7e1999893db710481418cb119971ba91d04"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/045.png",
+      "bytes": 35942,
+      "sha256": "fd700b999bee8349133a4ec032ecccca65a6f160894bbb27bac94df4d0659b07"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/067.5.png",
+      "bytes": 35389,
+      "sha256": "db54fae0c1e14494961991144ee633c247587ae9c3bfe363eaf12922f3699500"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/090.png",
+      "bytes": 34668,
+      "sha256": "b2c90e4ae66090a2224ca4a4f683bee2f9443a785dd5b9d9b3ffb253c2595095"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/112.5.png",
+      "bytes": 33622,
+      "sha256": "39cc06da514b22fb3290a4f8430a32e6dfae660a635678b925fb0c53066a7d92"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/135.png",
+      "bytes": 33273,
+      "sha256": "3bb7d12b7dd47b3243f77c8b935a6f562eb7de9251e6057442d35d888cf544b6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/157.5.png",
+      "bytes": 33385,
+      "sha256": "46e4240c45fbe6e49c64ccae86f5659119ec8e354145b581d9dcfc3f84b9ecfd"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/180.png",
+      "bytes": 37530,
+      "sha256": "28b65f9a6a97d3eae296de7fdf13fe9d6af432f3f6c5672807322f582fe8196b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/202.5.png",
+      "bytes": 36297,
+      "sha256": "183a098d82adfe1bbc06358eedcb547825931f19a672055b9fd46efff31bab23"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/225.png",
+      "bytes": 36056,
+      "sha256": "c9d794249ca9dbfc63314da6bba55d35acfaaaddd743a9a85279fe3749545d01"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/247.5.png",
+      "bytes": 35984,
+      "sha256": "0909a1f2d4bc495bd2db82b4e9061553b81df7b7b3fbc32426a7887ce9c848cc"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/270.png",
+      "bytes": 36247,
+      "sha256": "1c6f32b76160048e5dc52192536356f70257521c9f747a4a57f042d1921c7c88"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/292.5.png",
+      "bytes": 37181,
+      "sha256": "95a513e9651964c22a8644e90921e3c35128859ff1065045ef89f009cde65c16"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/315.png",
+      "bytes": 37831,
+      "sha256": "7be7e368af729aeb0efee45b4795f97e16c7cb46da2384225e2092dcd7936082"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/look/337.5.png",
+      "bytes": 37525,
+      "sha256": "c313081533102fe2787d2c43f847759bfac0b57fb723e0cb2782b8cb41d8a99f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/00.png",
+      "bytes": 36247,
+      "sha256": "6dad0dc2c1741ee734e9f6594e577ef42ec7e5c6b9902275f00cb19ec2f6a256"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/01.png",
+      "bytes": 34714,
+      "sha256": "2cce43dbf6c7f54ca9845b7f823f176deb74859433d4f8a7263726c8ea05071a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/02.png",
+      "bytes": 35669,
+      "sha256": "a786ddfb8acfc46a0855034f1242a075d6e90ac671418c4a4ba84aeb4ee9a35d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/03.png",
+      "bytes": 34402,
+      "sha256": "b6ff77e5df8b2f407f7fba1158143f57ffaf1bc324d205cfa37bd90ef9349ba5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/04.png",
+      "bytes": 36325,
+      "sha256": "ab33da07a9bf927cf46dc678b41cf9b36edfb84cad9a7c91cc9ee46963df1bbe"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/review/05.png",
+      "bytes": 35937,
+      "sha256": "b52d312d3793e3d3c0bb3c12a433e0572e0b009a82ae1371b8dbe87c3878be45"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/00.png",
+      "bytes": 37566,
+      "sha256": "1d8a74390e1c11260ad01afbd3be45201038f17f625c1844ac8ab6715dc55c4c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/01.png",
+      "bytes": 37654,
+      "sha256": "a72884626abe6b848598a6b5d1a5d143d91265f1c9702610d644792cb8f3545f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/02.png",
+      "bytes": 37010,
+      "sha256": "9563e53b6f5a2417a843f599743e56140888b5bb51b63077d0ad900547c7279c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/03.png",
+      "bytes": 37492,
+      "sha256": "3a21d2389b9e808f087dd30bd7088b2192793c72e3f1204ab5f9d2f054de7e80"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/04.png",
+      "bytes": 37172,
+      "sha256": "50845290b03fd33754467bb572f38f5081b0e729be10ac4f9aa9e62533599400"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running/05.png",
+      "bytes": 37221,
+      "sha256": "80692b994050262ff2160362619dee02ddf200713a768d6ef5ae7bba81137f73"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/00.png",
+      "bytes": 29030,
+      "sha256": "a5b093d2730578fa7b2002a5274ee09ee0455875034025c8dda07511be232e1b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/01.png",
+      "bytes": 28273,
+      "sha256": "1c26def7090f99caffc6bd18c688fbcf96fbeff0209846683344e861d3bdf8f9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/02.png",
+      "bytes": 28964,
+      "sha256": "798443a0f658569524a3f5d148f143090e3669c25f999edb00ed2334e3730f72"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/03.png",
+      "bytes": 28478,
+      "sha256": "37acfd64e18311cf2a97f532284a8961d193f8ec33172a9e1f7a02d4816615e4"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/04.png",
+      "bytes": 29060,
+      "sha256": "7899cbd0268e5524a63520c0e70e2bce7bdc0dc67528b29737665a58109d402e"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/05.png",
+      "bytes": 27472,
+      "sha256": "bfbe1a745b00fd9d4db4e1a908b6f3a6b34547f529dce7fba83da42ba77c2ec1"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/06.png",
+      "bytes": 29377,
+      "sha256": "f637f6392377d9169b24d4a063fdde04a0e32800ecb4fb2caec4fb10ceabbae6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-left/07.png",
+      "bytes": 29680,
+      "sha256": "08a41562131ab7cb125da5172b2181affa90e85c6c305f335ad579af2e597be6"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/00.png",
+      "bytes": 29250,
+      "sha256": "8cf17c69bb82d2df14fb84154bf4ce26b39059be4fa8b4ca7b5bedf646cc96e7"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/01.png",
+      "bytes": 28386,
+      "sha256": "349ceb9492338c648140173bb5fe71a6ee7dd899c817e48d57e22511c6d75fe5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/02.png",
+      "bytes": 29024,
+      "sha256": "bb677776a9af0b508678e7da7c221d3f53df65c36f630cdc4bd319f21fcda004"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/03.png",
+      "bytes": 28559,
+      "sha256": "e9ba68cda759b47880778c21c199b3a94dd9c7d3355373ed9f2caae4f636221b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/04.png",
+      "bytes": 29026,
+      "sha256": "f3e2b18506af5a71f426b524ec950ac913c979a056fade8da5bea156a8e938bf"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/05.png",
+      "bytes": 27450,
+      "sha256": "eeb6a0caf3d2a36cc28b0252c147a7936bdd41678b1b8b6d444aabef7d2584a2"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/06.png",
+      "bytes": 29387,
+      "sha256": "f03d0bfdc69986136a2584bd37742661c08f38620701c9c478e99d72062ce201"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/running-right/07.png",
+      "bytes": 29734,
+      "sha256": "ce340bc0d12e4b47e8c62a22ef0cc9aa271c50ec88b23c26aff64b49c75b9108"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/00.png",
+      "bytes": 33831,
+      "sha256": "71807134892683119dbf012b0bb2302ef4266da685f4f54ee1ef28b0dd951eed"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/01.png",
+      "bytes": 33685,
+      "sha256": "1a2176772021b4b4e74060c5ce71e562bd6a6a0f7911617fdffb548b2e51e559"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/02.png",
+      "bytes": 32464,
+      "sha256": "2119b3f15dc5469243ae7cfe5141e161f7ff30613cbead0fa05359755296ccf5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/03.png",
+      "bytes": 33966,
+      "sha256": "b4cf51ebf2f3de938ce368d2b7782bb9b0c1fd8c9d74404c3de0937b4a75051a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/04.png",
+      "bytes": 33366,
+      "sha256": "d7939bad46921b91d36204f0c9ae351046db8675856ab6a151a3877aabbe7ea3"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waiting/05.png",
+      "bytes": 33658,
+      "sha256": "9e560f66d0743328e91e0960d4662579cb784e44ce4e07607ff7c1e6fc213039"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waving/00.png",
+      "bytes": 36559,
+      "sha256": "8b91c8c422ecb3d146472efefeea049c37ff32a3d536305a80c15e610187525b"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waving/01.png",
+      "bytes": 38720,
+      "sha256": "748d73f56ed76da43264ad2ea3a7f0566d938af171a481b8aa665903534d7535"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waving/02.png",
+      "bytes": 38508,
+      "sha256": "f65bc0c84a29c69c372af8d91554bd7affc171f84f74b5ab5d6b543d39913fc8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/final-frames/waving/03.png",
+      "bytes": 36357,
+      "sha256": "a8ff8e558904905f5cef1f848377d4a3f9ecd8f9fe77d072d126cc8b8fe33548"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/idle-jump-idle.gif",
+      "bytes": 323407,
+      "sha256": "4003e62a69dbaa8820cb8e6f789e55c2c541bbe69cc1ad8ff2c800060ddd130f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/idle.gif",
+      "bytes": 115886,
+      "sha256": "2c0241a8878e2bc9a9dab7eb26ac4aca83249b53ea362a6bc9bd0891d7b6b409"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/jumping.gif",
+      "bytes": 107047,
+      "sha256": "c330d72be8064388640bda5ae4d6cd2e4e2b07f095bd73a6646710dce9551f16"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/look-loop.gif",
+      "bytes": 330220,
+      "sha256": "ace5d779512423911143d318895af68c825c972caba699cbffa32369bd8747d5"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/motion-stills.png",
+      "bytes": 129228,
+      "sha256": "9ddfd2ffb56f37d26b8933afd47059865228ce0dded8de839e46a021f4b4a799"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/preview-manifest.json",
+      "bytes": 60222,
+      "sha256": "f64d657a0d924b95fb7cba78f56c493540e77c9c723846875c8e91f6746d9eed"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/review.gif",
+      "bytes": 94489,
+      "sha256": "6f3d1e5df3feecb8f99c578ee5d3dfb5ae1cbeaeb34c3e20427ecf109703d16f"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/running-left.gif",
+      "bytes": 99707,
+      "sha256": "e008cf8a59eafb7df310e36b99b2e2d29794a63301379bd3d975f3a0fe963e0a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/running-right.gif",
+      "bytes": 100369,
+      "sha256": "74361aa166d695c56120da056d2b3314671a0f83df3af778e5783c852e8cc42c"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/running.gif",
+      "bytes": 108382,
+      "sha256": "769ba2ede5bc93ac8f5d8b0914d23524aaa52b2ef08db1b014c7cb9099c95643"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/waiting.gif",
+      "bytes": 113006,
+      "sha256": "b7c1a001fa95e690ee56cdb34e56325c819077af40973f053c06cd8639ab5f27"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/previews-final/waving.gif",
+      "bytes": 87477,
+      "sha256": "a11bc81bc5cd97da2a6a378b605ebdd69eb80aea1108b125eb0ae604e8894391"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/review.json",
+      "bytes": 25637,
+      "sha256": "f5b3cbe2dddccf9ac8f13524c7a14d892c3296ee3200bd81ea364c9d1ce84e82"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/unchanged-row-verification.json",
+      "bytes": 162,
+      "sha256": "5f0ef53e5abbe5d087d14316624dc101c09049ea3386d8b9bd34533bdd7d64df"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/qa/work-registration.json",
+      "bytes": 1322,
+      "sha256": "91e8fa8dcfd815cfbbf9d4d0dff7484962fb7ca80a931a0361ead74d95c4c27a"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/failed.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/idle.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/jumping.png",
+      "bytes": 1810,
+      "sha256": "eb1843262b696ce780da5a993a2404e7929f557186b4f1dc35809d879c5e7641"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/look-cardinals.png",
+      "bytes": 1559,
+      "sha256": "8fd0ae240e1b02fc16a36417a368d699609bec7c9c1f8a85aabe69ecc62389d9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/look-row-10.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/look-row-9.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/review.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/running-left.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/running-right.png",
+      "bytes": 2438,
+      "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/running.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/waiting.png",
+      "bytes": 2026,
+      "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/layout-guides/waving.png",
+      "bytes": 1559,
+      "sha256": "8fd0ae240e1b02fc16a36417a368d699609bec7c9c1f8a85aabe69ecc62389d9"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/reference-01.png",
+      "bytes": 2544661,
+      "sha256": "22c4e07a47eab9ba5190e8588d2caac174b221d89661232478b11206812d32e4"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/references/reference-02.png",
+      "bytes": 2286826,
+      "sha256": "7dbb53c1262ba9735b770e1d16ee002a9c2233d726a34190267598608f853749"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/repair-notes.md",
+      "bytes": 1342,
+      "sha256": "0c7baee7ebd0314dc275b905842fea8c09831cdc57a06f508b88fe6f59bff251"
+    },
+    {
+      "path": "Pets/kenken-panda/revisions/2026-10-11-chewing/work-repair-prompt.md",
+      "bytes": 3365,
+      "sha256": "f8e14eb8cd5ac82058cf12f0f662d547f01c80a225bf7d09230433e37e70dcb6"
+    },
+    {
       "path": "README.md",
-      "bytes": 1861,
-      "sha256": "9c038289b17f8ac24b344599f17ca88ef983cd75f859076f9c4a8b52d8a8f455"
+      "bytes": 2551,
+      "sha256": "b98feb554a8c85e3481cd7c8a9d647d4e71d149e34decdc71ab6d55e9028b1b9"
     }
   ]
 }

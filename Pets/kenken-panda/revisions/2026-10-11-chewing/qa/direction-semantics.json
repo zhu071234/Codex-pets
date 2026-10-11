@@ -1,0 +1,108 @@
+{
+  "reviewed_artifact": "final/spritesheet-extended.png",
+  "review_basis": "Final native-size labeled sheet and final contact sheet; head muzzle, eyes, cheek occlusion, anchored torso and bamboo.",
+  "directions": {
+    "000": {
+      "expected": "up",
+      "observed": "Head pitches upward with centered high nose and raised chin.",
+      "verdict": "pass",
+      "evidence": "Nostrils face viewer from below, muzzle lies above eye-patch lower edges, eyes aim upward; torso, bamboo and feet stay planted."
+    },
+    "022.5": {
+      "expected": "up-right",
+      "observed": "Strong up pitch plus modest right yaw.",
+      "verdict": "pass",
+      "evidence": "Nose shifts right from centered up anchor while chin remains raised and eyes aim high right; both ears and full front body remain visible."
+    },
+    "045": {
+      "expected": "up-right",
+      "observed": "Up-right head turn, similar to previous pose.",
+      "verdict": "warning",
+      "evidence": "Muzzle projects right, far cheek is partly occluded and nose remains high with raised chin. Similarity to 022.5 is minor; intended quadrant remains clear."
+    },
+    "067.5": {
+      "expected": "up-right",
+      "observed": "Mostly right with slight upward pitch.",
+      "verdict": "pass",
+      "evidence": "Nose projects toward screen-right and upper muzzle remains lifted; gaze is higher than level right anchor, anchored body unchanged."
+    },
+    "090": {
+      "expected": "right",
+      "observed": "Clear level head yaw toward screen-right.",
+      "verdict": "pass",
+      "evidence": "Nose and open muzzle project on right edge of head, near eye visible and far eye partly occluded, feet and bamboo remain frontal."
+    },
+    "112.5": {
+      "expected": "down-right",
+      "observed": "Rightward yaw with lowered head and eyes.",
+      "verdict": "pass",
+      "evidence": "Nose remains right of head center but drops toward bamboo compared with 090; brow overhang and reduced raised chin show down pitch."
+    },
+    "135": {
+      "expected": "down-right",
+      "observed": "Head bows and turns diagonally down-right.",
+      "verdict": "pass",
+      "evidence": "Top of head dominates, nose lies low toward right paw, near eye looks down/right; front torso and bamboo stay anchored."
+    },
+    "157.5": {
+      "expected": "down-right",
+      "observed": "Strong bowed head with subtle remaining right yaw.",
+      "verdict": "pass",
+      "evidence": "Low nose aims toward bamboo slightly right of head midline; right cheek foreshortening retains horizontal cue while both eyes sit low under brow."
+    },
+    "180": {
+      "expected": "down",
+      "observed": "Centered bowed head looking directly down at bamboo.",
+      "verdict": "pass",
+      "evidence": "Large visible forehead, both eyes tucked under low brow, centered nose near bamboo and chin lowered; no horizontal head yaw."
+    },
+    "202.5": {
+      "expected": "down-left",
+      "observed": "Downward bow with modest left yaw.",
+      "verdict": "pass",
+      "evidence": "Nose shifts left of forehead midline and remains low near left paw; eyes remain directed down while far cheek begins occlusion."
+    },
+    "225": {
+      "expected": "down-left",
+      "observed": "Clear diagonal down-left head turn.",
+      "verdict": "pass",
+      "evidence": "Muzzle projects left toward bamboo, visible forehead indicates downward pitch, far eye occluded by leftward head yaw."
+    },
+    "247.5": {
+      "expected": "down-left",
+      "observed": "Mostly left with slightly lowered muzzle.",
+      "verdict": "pass",
+      "evidence": "Nose projects left and mouth points below the level left cardinal; eyes and brow incline toward the lower-left region without moving feet."
+    },
+    "270": {
+      "expected": "left",
+      "observed": "Unmistakable level yaw to screen-left.",
+      "verdict": "pass",
+      "evidence": "Nose on left edge of face, near dark eye visible and far eye occluded; muzzle horizontal left while body remains frontal."
+    },
+    "292.5": {
+      "expected": "up-left",
+      "observed": "Leftward head yaw and visibly raised chin.",
+      "verdict": "pass",
+      "evidence": "Nose remains left of head center while muzzle rises and chin opens upward; glossy near eye points toward upper-left."
+    },
+    "315": {
+      "expected": "up-left",
+      "observed": "Up-left head turn with high nose and lifted chin.",
+      "verdict": "pass",
+      "evidence": "Left-projecting nose is above level-left anchor, upper gaze and exposed underside of muzzle show upward pitch; torso and bamboo fixed."
+    },
+    "337.5": {
+      "expected": "up-left",
+      "observed": "High upward gaze with left yaw still fairly pronounced.",
+      "verdict": "warning",
+      "evidence": "Nose stays left of center and raised, chin lifted and eyes high left. Similarity to 315 is minor and the following centered-up pose keeps the ordered quadrant sweep."
+    }
+  },
+  "continuity_review": {
+    "natural_transparency": "Warnings at y195-197 are the open background gap between the two rounded feet below the belly, visible in every source pose; not an enclosed hole or cut across the body.",
+    "boundary_157_180": "The 6.5px bounding-center change follows the broader frontal bowed forehead in 180; foot baseline, bamboo and body remain stable, without broken attachment or clipping.",
+    "boundary_337_000": "Head yaw returns from left to centered upward; chin remains lifted and torso planted. No direction reversal or identity break.",
+    "state_motion": "Nine standard rows preserve complete body and prop connection; jump departs and returns to the idle baseline with comparable body size. Gait alternates and work row nibbles bamboo while seated."
+  }
+}
